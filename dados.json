@@ -1,0 +1,5375 @@
+[
+  {
+    "Numero": 1,
+    "Descricao": "Arroz integral cozido",
+    "Umidade": 70.1,
+    "Energia_kcal": 124,
+    "Proteina": 2.6,
+    "Carboidrato": 25.8,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 2,
+    "Descricao": "Arroz integral cru",
+    "Umidade": 12.2,
+    "Energia_kcal": 360,
+    "Proteina": 7.3,
+    "Carboidrato": 77.5,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 3,
+    "Descricao": "Arroz tipo 1 cozido",
+    "Umidade": 69.1,
+    "Energia_kcal": 128,
+    "Proteina": 2.5,
+    "Carboidrato": 28.1,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 4,
+    "Descricao": "Arroz tipo 1 cru",
+    "Umidade": 13.2,
+    "Energia_kcal": 358,
+    "Proteina": 7.2,
+    "Carboidrato": 78.8,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 5,
+    "Descricao": "Arroz tipo 2 cozido",
+    "Umidade": 68.7,
+    "Energia_kcal": 130,
+    "Proteina": 2.6,
+    "Carboidrato": 28.2,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 6,
+    "Descricao": "Arroz tipo 2 cru",
+    "Umidade": 13.2,
+    "Energia_kcal": 358,
+    "Proteina": 7.2,
+    "Carboidrato": 78.9,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 7,
+    "Descricao": "Aveia flocos crua",
+    "Umidade": 9.1,
+    "Energia_kcal": 394,
+    "Proteina": 13.9,
+    "Carboidrato": 66.6,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 8,
+    "Descricao": "Biscoito doce maisena",
+    "Umidade": 3.2,
+    "Energia_kcal": 443,
+    "Proteina": 8.1,
+    "Carboidrato": 75.2,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 9,
+    "Descricao": "Biscoito doce recheado com chocolate",
+    "Umidade": 2.2,
+    "Energia_kcal": 472,
+    "Proteina": 6.4,
+    "Carboidrato": 70.5,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 10,
+    "Descricao": "Biscoito doce recheado com morango",
+    "Umidade": 2.7,
+    "Energia_kcal": 471,
+    "Proteina": 5.7,
+    "Carboidrato": 71.0,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 11,
+    "Descricao": "Biscoito doce wafer recheado de chocolate",
+    "Umidade": 1.2,
+    "Energia_kcal": 502,
+    "Proteina": 5.6,
+    "Carboidrato": 67.5,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 12,
+    "Descricao": "Biscoito doce wafer recheado de morango",
+    "Umidade": 1.2,
+    "Energia_kcal": 513,
+    "Proteina": 4.5,
+    "Carboidrato": 67.4,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 13,
+    "Descricao": "Biscoito salgado cream cracker",
+    "Umidade": 4.1,
+    "Energia_kcal": 432,
+    "Proteina": 10.1,
+    "Carboidrato": 68.7,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 14,
+    "Descricao": "Bolo mistura para",
+    "Umidade": 1.0,
+    "Energia_kcal": 419,
+    "Proteina": 6.2,
+    "Carboidrato": 84.7,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 15,
+    "Descricao": "Bolo pronto aipim",
+    "Umidade": 34.1,
+    "Energia_kcal": 324,
+    "Proteina": 4.4,
+    "Carboidrato": 47.9,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 16,
+    "Descricao": "Bolo pronto chocolate",
+    "Umidade": 19.3,
+    "Energia_kcal": 410,
+    "Proteina": 6.2,
+    "Carboidrato": 54.7,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 17,
+    "Descricao": "Bolo pronto coco",
+    "Umidade": 29.3,
+    "Energia_kcal": 333,
+    "Proteina": 5.7,
+    "Carboidrato": 52.3,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 18,
+    "Descricao": "Bolo pronto milho",
+    "Umidade": 36.7,
+    "Energia_kcal": 311,
+    "Proteina": 4.8,
+    "Carboidrato": 45.1,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 19,
+    "Descricao": "Canjica branca crua",
+    "Umidade": 13.6,
+    "Energia_kcal": 358,
+    "Proteina": 7.2,
+    "Carboidrato": 78.1,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 20,
+    "Descricao": "Canjica com leite integral",
+    "Umidade": 72.5,
+    "Energia_kcal": 112,
+    "Proteina": 2.4,
+    "Carboidrato": 23.6,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 21,
+    "Descricao": "Cereais milho flocos com sal",
+    "Umidade": 9.3,
+    "Energia_kcal": 370,
+    "Proteina": 7.3,
+    "Carboidrato": 80.8,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 22,
+    "Descricao": "Cereais milho flocos sem sal",
+    "Umidade": 11.2,
+    "Energia_kcal": 363,
+    "Proteina": 6.9,
+    "Carboidrato": 80.4,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 23,
+    "Descricao": "Cereais mingau milho infantil",
+    "Umidade": 4.7,
+    "Energia_kcal": 394,
+    "Proteina": 6.4,
+    "Carboidrato": 87.3,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 24,
+    "Descricao": "Cereais mistura para vitamina trigo cevada e aveia",
+    "Umidade": 4.4,
+    "Energia_kcal": 381,
+    "Proteina": 8.9,
+    "Carboidrato": 81.6,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 25,
+    "Descricao": "Cereal matinal milho",
+    "Umidade": 5.5,
+    "Energia_kcal": 365,
+    "Proteina": 7.2,
+    "Carboidrato": 83.8,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 26,
+    "Descricao": "Cereal matinal milho acucar",
+    "Umidade": 4.3,
+    "Energia_kcal": 377,
+    "Proteina": 4.7,
+    "Carboidrato": 88.8,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 27,
+    "Descricao": "Creme de arroz po",
+    "Umidade": 7.3,
+    "Energia_kcal": 386,
+    "Proteina": 7.0,
+    "Carboidrato": 83.9,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 28,
+    "Descricao": "Creme de milho po",
+    "Umidade": 5.7,
+    "Energia_kcal": 333,
+    "Proteina": 4.8,
+    "Carboidrato": 86.1,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 29,
+    "Descricao": "Curau milho verde",
+    "Umidade": 81.6,
+    "Energia_kcal": 78,
+    "Proteina": 2.4,
+    "Carboidrato": 13.9,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 30,
+    "Descricao": "Curau milho verde mistura para",
+    "Umidade": 3.9,
+    "Energia_kcal": 402,
+    "Proteina": 2.2,
+    "Carboidrato": 79.8,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 31,
+    "Descricao": "Farinha de arroz enriquecida",
+    "Umidade": 12.7,
+    "Energia_kcal": 363,
+    "Proteina": 1.3,
+    "Carboidrato": 85.5,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 32,
+    "Descricao": "Farinha de centeio integral",
+    "Umidade": 10.8,
+    "Energia_kcal": 336,
+    "Proteina": 12.5,
+    "Carboidrato": 73.3,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 33,
+    "Descricao": "Farinha de milho amarela",
+    "Umidade": 11.8,
+    "Energia_kcal": 351,
+    "Proteina": 7.2,
+    "Carboidrato": 79.1,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 34,
+    "Descricao": "Farinha de rosca",
+    "Umidade": 9.8,
+    "Energia_kcal": 371,
+    "Proteina": 11.4,
+    "Carboidrato": 75.8,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 35,
+    "Descricao": "Farinha de trigo",
+    "Umidade": 13.0,
+    "Energia_kcal": 360,
+    "Proteina": 9.8,
+    "Carboidrato": 75.1,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 36,
+    "Descricao": "Farinha lactea de cereais",
+    "Umidade": 2.7,
+    "Energia_kcal": 415,
+    "Proteina": 11.9,
+    "Carboidrato": 77.8,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 37,
+    "Descricao": "Lasanha massa fresca cozida",
+    "Umidade": 59.6,
+    "Energia_kcal": 164,
+    "Proteina": 5.8,
+    "Carboidrato": 32.5,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 38,
+    "Descricao": "Lasanha massa fresca crua",
+    "Umidade": 45.0,
+    "Energia_kcal": 220,
+    "Proteina": 7.0,
+    "Carboidrato": 45.1,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 39,
+    "Descricao": "Macarrao instantaneo",
+    "Umidade": 6.0,
+    "Energia_kcal": 436,
+    "Proteina": 8.8,
+    "Carboidrato": 62.4,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 40,
+    "Descricao": "Macarrao trigo cru",
+    "Umidade": 10.2,
+    "Energia_kcal": 371,
+    "Proteina": 10.0,
+    "Carboidrato": 77.9,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 41,
+    "Descricao": "Macarrao trigo cru com ovos",
+    "Umidade": 10.6,
+    "Energia_kcal": 371,
+    "Proteina": 10.3,
+    "Carboidrato": 76.6,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 42,
+    "Descricao": "Milho amido cru",
+    "Umidade": 12.2,
+    "Energia_kcal": 361,
+    "Proteina": 0.6,
+    "Carboidrato": 87.1,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 43,
+    "Descricao": "Milho fuba cru",
+    "Umidade": 11.5,
+    "Energia_kcal": 353,
+    "Proteina": 7.2,
+    "Carboidrato": 78.9,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 44,
+    "Descricao": "Milho verde cru",
+    "Umidade": 63.5,
+    "Energia_kcal": 138,
+    "Proteina": 6.6,
+    "Carboidrato": 28.6,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 45,
+    "Descricao": "Milho verde enlatado drenado",
+    "Umidade": 76.2,
+    "Energia_kcal": 98,
+    "Proteina": 3.2,
+    "Carboidrato": 17.1,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 46,
+    "Descricao": "Mingau tradicional po",
+    "Umidade": 8.1,
+    "Energia_kcal": 373,
+    "Proteina": 0.6,
+    "Carboidrato": 89.3,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 47,
+    "Descricao": "Pamonha barra para cozimento pre-cozida",
+    "Umidade": 61.3,
+    "Energia_kcal": 171,
+    "Proteina": 2.6,
+    "Carboidrato": 30.7,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 48,
+    "Descricao": "Pao aveia forma",
+    "Umidade": 19.9,
+    "Energia_kcal": 343,
+    "Proteina": 12.4,
+    "Carboidrato": 59.6,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 49,
+    "Descricao": "Pao de soja",
+    "Umidade": 26.0,
+    "Energia_kcal": 309,
+    "Proteina": 11.3,
+    "Carboidrato": 56.5,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 50,
+    "Descricao": "Pao gluten forma",
+    "Umidade": 40.7,
+    "Energia_kcal": 253,
+    "Proteina": 12.0,
+    "Carboidrato": 44.1,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 51,
+    "Descricao": "Pao milho forma",
+    "Umidade": 30.4,
+    "Energia_kcal": 292,
+    "Proteina": 8.3,
+    "Carboidrato": 56.4,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 52,
+    "Descricao": "Pao trigo forma integral",
+    "Umidade": 34.7,
+    "Energia_kcal": 253,
+    "Proteina": 9.4,
+    "Carboidrato": 49.9,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 53,
+    "Descricao": "Pao trigo frances",
+    "Umidade": 28.5,
+    "Energia_kcal": 300,
+    "Proteina": 8.0,
+    "Carboidrato": 58.6,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 54,
+    "Descricao": "Pao trigo sovado",
+    "Umidade": 25.8,
+    "Energia_kcal": 311,
+    "Proteina": 8.4,
+    "Carboidrato": 61.5,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 55,
+    "Descricao": "Pastel de carne cru",
+    "Umidade": 34.4,
+    "Energia_kcal": 289,
+    "Proteina": 10.7,
+    "Carboidrato": 42.0,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 56,
+    "Descricao": "Pastel de carne frito",
+    "Umidade": 22.9,
+    "Energia_kcal": 388,
+    "Proteina": 10.1,
+    "Carboidrato": 43.8,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 57,
+    "Descricao": "Pastel de queijo cru",
+    "Umidade": 31.3,
+    "Energia_kcal": 308,
+    "Proteina": 9.9,
+    "Carboidrato": 45.9,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 58,
+    "Descricao": "Pastel de queijo frito",
+    "Umidade": 17.5,
+    "Energia_kcal": 422,
+    "Proteina": 8.7,
+    "Carboidrato": 48.1,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 59,
+    "Descricao": "Pastel massa crua",
+    "Umidade": 27.1,
+    "Energia_kcal": 310,
+    "Proteina": 6.9,
+    "Carboidrato": 57.4,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 60,
+    "Descricao": "Pastel massa frita",
+    "Umidade": 1.0,
+    "Energia_kcal": 570,
+    "Proteina": 6.0,
+    "Carboidrato": 49.3,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 61,
+    "Descricao": "Pipoca com oleo de soja sem sal",
+    "Umidade": 2.8,
+    "Energia_kcal": 448,
+    "Proteina": 9.9,
+    "Carboidrato": 70.3,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 62,
+    "Descricao": "Polenta pre-cozida",
+    "Umidade": 72.7,
+    "Energia_kcal": 103,
+    "Proteina": 2.3,
+    "Carboidrato": 23.3,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 63,
+    "Descricao": "Torrada pao frances",
+    "Umidade": 9.0,
+    "Energia_kcal": 377,
+    "Proteina": 10.5,
+    "Carboidrato": 74.6,
+    "Categoria": "Cereais e derivados"
+  },
+  {
+    "Numero": 64,
+    "Descricao": "Abobora cabotian cozida",
+    "Umidade": 86.4,
+    "Energia_kcal": 48,
+    "Proteina": 1.4,
+    "Carboidrato": 10.8,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 65,
+    "Descricao": "Abobora cabotian crua",
+    "Umidade": 88.5,
+    "Energia_kcal": 39,
+    "Proteina": 1.7,
+    "Carboidrato": 8.4,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 66,
+    "Descricao": "Abobora menina brasileira crua",
+    "Umidade": 95.7,
+    "Energia_kcal": 14,
+    "Proteina": 0.6,
+    "Carboidrato": 3.3,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 67,
+    "Descricao": "Abobora moranga crua",
+    "Umidade": 95.9,
+    "Energia_kcal": 12,
+    "Proteina": 1.0,
+    "Carboidrato": 2.7,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 68,
+    "Descricao": "Abobora moranga refogada",
+    "Umidade": 92.5,
+    "Energia_kcal": 29,
+    "Proteina": 0.4,
+    "Carboidrato": 6.0,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 69,
+    "Descricao": "Abobora pescoco crua",
+    "Umidade": 92.5,
+    "Energia_kcal": 24,
+    "Proteina": 0.7,
+    "Carboidrato": 6.1,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 70,
+    "Descricao": "Abobrinha italiana cozida",
+    "Umidade": 95.3,
+    "Energia_kcal": 15,
+    "Proteina": 1.1,
+    "Carboidrato": 3.0,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 71,
+    "Descricao": "Abobrinha italiana crua",
+    "Umidade": 93.9,
+    "Energia_kcal": 19,
+    "Proteina": 1.1,
+    "Carboidrato": 4.3,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 72,
+    "Descricao": "Abobrinha italiana refogada",
+    "Umidade": 93.5,
+    "Energia_kcal": 24,
+    "Proteina": 1.1,
+    "Carboidrato": 4.2,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 73,
+    "Descricao": "Abobrinha paulista crua",
+    "Umidade": 90.9,
+    "Energia_kcal": 31,
+    "Proteina": 0.6,
+    "Carboidrato": 7.9,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 74,
+    "Descricao": "Acelga crua",
+    "Umidade": 93.2,
+    "Energia_kcal": 21,
+    "Proteina": 1.4,
+    "Carboidrato": 4.6,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 75,
+    "Descricao": "Agriao cru",
+    "Umidade": 93.9,
+    "Energia_kcal": 17,
+    "Proteina": 2.7,
+    "Carboidrato": 2.3,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 76,
+    "Descricao": "Aipo cru",
+    "Umidade": 93.8,
+    "Energia_kcal": 19,
+    "Proteina": 0.8,
+    "Carboidrato": 4.3,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 77,
+    "Descricao": "Alface americana crua",
+    "Umidade": 97.2,
+    "Energia_kcal": 9,
+    "Proteina": 0.6,
+    "Carboidrato": 1.7,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 78,
+    "Descricao": "Alface crespa crua",
+    "Umidade": 96.1,
+    "Energia_kcal": 11,
+    "Proteina": 1.3,
+    "Carboidrato": 1.7,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 79,
+    "Descricao": "Alface lisa crua",
+    "Umidade": 95.0,
+    "Energia_kcal": 14,
+    "Proteina": 1.7,
+    "Carboidrato": 2.4,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 80,
+    "Descricao": "Alface roxa crua",
+    "Umidade": 95.7,
+    "Energia_kcal": 13,
+    "Proteina": 0.9,
+    "Carboidrato": 2.5,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 81,
+    "Descricao": "Alfavaca crua",
+    "Umidade": 90.2,
+    "Energia_kcal": 29,
+    "Proteina": 2.7,
+    "Carboidrato": 5.2,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 82,
+    "Descricao": "Alho cru",
+    "Umidade": 67.5,
+    "Energia_kcal": 113,
+    "Proteina": 7.0,
+    "Carboidrato": 23.9,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 83,
+    "Descricao": "Alho-poro cru",
+    "Umidade": 91.0,
+    "Energia_kcal": 32,
+    "Proteina": 1.4,
+    "Carboidrato": 6.9,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 84,
+    "Descricao": "Almeirao cru",
+    "Umidade": 93.7,
+    "Energia_kcal": 18,
+    "Proteina": 1.8,
+    "Carboidrato": 3.3,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 85,
+    "Descricao": "Almeirao refogado",
+    "Umidade": 86.5,
+    "Energia_kcal": 65,
+    "Proteina": 1.7,
+    "Carboidrato": 5.7,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 86,
+    "Descricao": "Batata baroa cozida",
+    "Umidade": 79.3,
+    "Energia_kcal": 80,
+    "Proteina": 0.9,
+    "Carboidrato": 18.9,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 87,
+    "Descricao": "Batata baroa crua",
+    "Umidade": 73.7,
+    "Energia_kcal": 101,
+    "Proteina": 1.0,
+    "Carboidrato": 24.0,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 88,
+    "Descricao": "Batata doce cozida",
+    "Umidade": 80.4,
+    "Energia_kcal": 77,
+    "Proteina": 0.6,
+    "Carboidrato": 18.4,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 89,
+    "Descricao": "Batata doce crua",
+    "Umidade": 69.5,
+    "Energia_kcal": 118,
+    "Proteina": 1.3,
+    "Carboidrato": 28.2,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 90,
+    "Descricao": "Batata frita tipo chips industrializada",
+    "Umidade": 2.7,
+    "Energia_kcal": 543,
+    "Proteina": 5.6,
+    "Carboidrato": 51.2,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 91,
+    "Descricao": "Batata inglesa cozida",
+    "Umidade": 86.4,
+    "Energia_kcal": 52,
+    "Proteina": 1.2,
+    "Carboidrato": 11.9,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 92,
+    "Descricao": "Batata inglesa crua",
+    "Umidade": 82.9,
+    "Energia_kcal": 64,
+    "Proteina": 1.8,
+    "Carboidrato": 14.7,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 93,
+    "Descricao": "Batata inglesa frita",
+    "Umidade": 44.1,
+    "Energia_kcal": 267,
+    "Proteina": 5.0,
+    "Carboidrato": 35.6,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 94,
+    "Descricao": "Batata inglesa saute",
+    "Umidade": 83.1,
+    "Energia_kcal": 68,
+    "Proteina": 1.3,
+    "Carboidrato": 14.1,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 95,
+    "Descricao": "Berinjela cozida",
+    "Umidade": 94.4,
+    "Energia_kcal": 19,
+    "Proteina": 0.7,
+    "Carboidrato": 4.5,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 96,
+    "Descricao": "Berinjela crua",
+    "Umidade": 93.8,
+    "Energia_kcal": 20,
+    "Proteina": 1.2,
+    "Carboidrato": 4.4,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 97,
+    "Descricao": "Beterraba cozida",
+    "Umidade": 90.6,
+    "Energia_kcal": 32,
+    "Proteina": 1.3,
+    "Carboidrato": 7.2,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 98,
+    "Descricao": "Beterraba crua",
+    "Umidade": 86.0,
+    "Energia_kcal": 49,
+    "Proteina": 1.9,
+    "Carboidrato": 11.1,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 99,
+    "Descricao": "Biscoito polvilho doce",
+    "Umidade": 5.4,
+    "Energia_kcal": 438,
+    "Proteina": 1.3,
+    "Carboidrato": 80.5,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 100,
+    "Descricao": "Brocolis cozido",
+    "Umidade": 92.6,
+    "Energia_kcal": 25,
+    "Proteina": 2.1,
+    "Carboidrato": 4.4,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 101,
+    "Descricao": "Brocolis cru",
+    "Umidade": 91.2,
+    "Energia_kcal": 25,
+    "Proteina": 3.6,
+    "Carboidrato": 4.0,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 102,
+    "Descricao": "Cara cozido",
+    "Umidade": 78.9,
+    "Energia_kcal": 78,
+    "Proteina": 1.5,
+    "Carboidrato": 18.9,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 103,
+    "Descricao": "Cara cru",
+    "Umidade": 73.7,
+    "Energia_kcal": 96,
+    "Proteina": 2.3,
+    "Carboidrato": 23.0,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 104,
+    "Descricao": "Caruru cru",
+    "Umidade": 87.6,
+    "Energia_kcal": 34,
+    "Proteina": 3.2,
+    "Carboidrato": 6.0,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 105,
+    "Descricao": "Catalonha crua",
+    "Umidade": 91.8,
+    "Energia_kcal": 24,
+    "Proteina": 1.9,
+    "Carboidrato": 4.8,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 106,
+    "Descricao": "Catalonha refogada",
+    "Umidade": 87.4,
+    "Energia_kcal": 63,
+    "Proteina": 2.0,
+    "Carboidrato": 4.8,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 107,
+    "Descricao": "Cebola crua",
+    "Umidade": 88.9,
+    "Energia_kcal": 39,
+    "Proteina": 1.7,
+    "Carboidrato": 8.9,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 108,
+    "Descricao": "Cebolinha crua",
+    "Umidade": 93.9,
+    "Energia_kcal": 20,
+    "Proteina": 1.9,
+    "Carboidrato": 3.4,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 109,
+    "Descricao": "Cenoura cozida",
+    "Umidade": 91.7,
+    "Energia_kcal": 30,
+    "Proteina": 0.8,
+    "Carboidrato": 6.7,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 110,
+    "Descricao": "Cenoura crua",
+    "Umidade": 90.1,
+    "Energia_kcal": 34,
+    "Proteina": 1.3,
+    "Carboidrato": 7.7,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 111,
+    "Descricao": "Chicoria crua",
+    "Umidade": 95.1,
+    "Energia_kcal": 14,
+    "Proteina": 1.1,
+    "Carboidrato": 2.9,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 112,
+    "Descricao": "Chuchu cozido",
+    "Umidade": 94.6,
+    "Energia_kcal": 19,
+    "Proteina": 0.4,
+    "Carboidrato": 4.8,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 113,
+    "Descricao": "Chuchu cru",
+    "Umidade": 94.8,
+    "Energia_kcal": 17,
+    "Proteina": 0.7,
+    "Carboidrato": 4.1,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 114,
+    "Descricao": "Coentro folhas desidratadas",
+    "Umidade": 10.6,
+    "Energia_kcal": 309,
+    "Proteina": 20.9,
+    "Carboidrato": 48.0,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 115,
+    "Descricao": "Couve manteiga crua",
+    "Umidade": 90.9,
+    "Energia_kcal": 27,
+    "Proteina": 2.9,
+    "Carboidrato": 4.3,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 116,
+    "Descricao": "Couve manteiga refogada",
+    "Umidade": 81.5,
+    "Energia_kcal": 90,
+    "Proteina": 1.7,
+    "Carboidrato": 8.7,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 117,
+    "Descricao": "Couve-flor crua",
+    "Umidade": 92.8,
+    "Energia_kcal": 23,
+    "Proteina": 1.9,
+    "Carboidrato": 4.5,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 118,
+    "Descricao": "Couve-flor cozida",
+    "Umidade": 94.3,
+    "Energia_kcal": 19,
+    "Proteina": 1.2,
+    "Carboidrato": 3.9,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 119,
+    "Descricao": "Espinafre Nova Zelandia cru",
+    "Umidade": 94.0,
+    "Energia_kcal": 16,
+    "Proteina": 2.0,
+    "Carboidrato": 2.6,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 120,
+    "Descricao": "Espinafre Nova Zelandia refogado",
+    "Umidade": 86.6,
+    "Energia_kcal": 67,
+    "Proteina": 2.7,
+    "Carboidrato": 4.2,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 121,
+    "Descricao": "Farinha de mandioca crua",
+    "Umidade": 9.4,
+    "Energia_kcal": 361,
+    "Proteina": 1.6,
+    "Carboidrato": 87.9,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 122,
+    "Descricao": "Farinha de mandioca torrada",
+    "Umidade": 8.3,
+    "Energia_kcal": 365,
+    "Proteina": 1.2,
+    "Carboidrato": 89.2,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 123,
+    "Descricao": "Farinha de puba",
+    "Umidade": 9.8,
+    "Energia_kcal": 360,
+    "Proteina": 1.6,
+    "Carboidrato": 87.3,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 124,
+    "Descricao": "Fecula de mandioca",
+    "Umidade": 17.8,
+    "Energia_kcal": 331,
+    "Proteina": 0.5,
+    "Carboidrato": 81.1,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 125,
+    "Descricao": "Feijao broto cru",
+    "Umidade": 87.5,
+    "Energia_kcal": 39,
+    "Proteina": 4.2,
+    "Carboidrato": 7.8,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 126,
+    "Descricao": "Inhame cru",
+    "Umidade": 73.3,
+    "Energia_kcal": 97,
+    "Proteina": 2.1,
+    "Carboidrato": 23.2,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 127,
+    "Descricao": "Jilo cru",
+    "Umidade": 91.6,
+    "Energia_kcal": 27,
+    "Proteina": 1.4,
+    "Carboidrato": 6.2,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 128,
+    "Descricao": "Jurubeba crua",
+    "Umidade": 66.6,
+    "Energia_kcal": 126,
+    "Proteina": 4.4,
+    "Carboidrato": 23.1,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 129,
+    "Descricao": "Mandioca cozida",
+    "Umidade": 68.7,
+    "Energia_kcal": 125,
+    "Proteina": 0.6,
+    "Carboidrato": 30.1,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 130,
+    "Descricao": "Mandioca crua",
+    "Umidade": 61.8,
+    "Energia_kcal": 151,
+    "Proteina": 1.1,
+    "Carboidrato": 36.2,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 131,
+    "Descricao": "Mandioca farofa temperada",
+    "Umidade": 6.4,
+    "Energia_kcal": 406,
+    "Proteina": 2.1,
+    "Carboidrato": 80.3,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 132,
+    "Descricao": "Mandioca frita",
+    "Umidade": 36.6,
+    "Energia_kcal": 300,
+    "Proteina": 1.4,
+    "Carboidrato": 50.3,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 133,
+    "Descricao": "Manjericao cru",
+    "Umidade": 93.0,
+    "Energia_kcal": 21,
+    "Proteina": 2.0,
+    "Carboidrato": 3.6,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 134,
+    "Descricao": "Maxixe cru",
+    "Umidade": 95.1,
+    "Energia_kcal": 14,
+    "Proteina": 1.4,
+    "Carboidrato": 2.7,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 135,
+    "Descricao": "Mostarda folha crua",
+    "Umidade": 93.4,
+    "Energia_kcal": 18,
+    "Proteina": 2.1,
+    "Carboidrato": 3.2,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 136,
+    "Descricao": "Nhoque batata cozido",
+    "Umidade": 55.0,
+    "Energia_kcal": 181,
+    "Proteina": 5.9,
+    "Carboidrato": 36.8,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 137,
+    "Descricao": "Nabo cru",
+    "Umidade": 93.8,
+    "Energia_kcal": 18,
+    "Proteina": 1.2,
+    "Carboidrato": 4.1,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 138,
+    "Descricao": "Palmito jucara em conserva",
+    "Umidade": 91.4,
+    "Energia_kcal": 23,
+    "Proteina": 1.8,
+    "Carboidrato": 4.3,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 139,
+    "Descricao": "Palmito pupunha em conserva",
+    "Umidade": 89.4,
+    "Energia_kcal": 29,
+    "Proteina": 2.5,
+    "Carboidrato": 5.5,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 140,
+    "Descricao": "Pao de queijo assado",
+    "Umidade": 33.7,
+    "Energia_kcal": 363,
+    "Proteina": 5.1,
+    "Carboidrato": 34.2,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 141,
+    "Descricao": "Pao de queijo cru",
+    "Umidade": 41.8,
+    "Energia_kcal": 295,
+    "Proteina": 3.6,
+    "Carboidrato": 38.5,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 142,
+    "Descricao": "Pepino cru",
+    "Umidade": 96.8,
+    "Energia_kcal": 10,
+    "Proteina": 0.9,
+    "Carboidrato": 2.0,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 143,
+    "Descricao": "Pimentao amarelo cru",
+    "Umidade": 91.9,
+    "Energia_kcal": 28,
+    "Proteina": 1.2,
+    "Carboidrato": 6.0,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 144,
+    "Descricao": "Pimentao verde cru",
+    "Umidade": 93.5,
+    "Energia_kcal": 21,
+    "Proteina": 1.1,
+    "Carboidrato": 4.9,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 145,
+    "Descricao": "Pimentao vermelho cru",
+    "Umidade": 92.9,
+    "Energia_kcal": 23,
+    "Proteina": 1.0,
+    "Carboidrato": 5.5,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 146,
+    "Descricao": "Polvilho doce",
+    "Umidade": 12.6,
+    "Energia_kcal": 351,
+    "Proteina": 0.4,
+    "Carboidrato": 86.8,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 147,
+    "Descricao": "Quiabo cru",
+    "Umidade": 90.6,
+    "Energia_kcal": 30,
+    "Proteina": 1.9,
+    "Carboidrato": 6.4,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 148,
+    "Descricao": "Rabanete cru",
+    "Umidade": 95.1,
+    "Energia_kcal": 14,
+    "Proteina": 1.4,
+    "Carboidrato": 2.7,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 149,
+    "Descricao": "Repolho branco cru",
+    "Umidade": 94.7,
+    "Energia_kcal": 17,
+    "Proteina": 0.9,
+    "Carboidrato": 3.9,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 150,
+    "Descricao": "Repolho roxo cru",
+    "Umidade": 90.1,
+    "Energia_kcal": 31,
+    "Proteina": 1.9,
+    "Carboidrato": 7.2,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 151,
+    "Descricao": "Repolho roxo refogado",
+    "Umidade": 88.7,
+    "Energia_kcal": 42,
+    "Proteina": 1.8,
+    "Carboidrato": 7.6,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 152,
+    "Descricao": "Rucula crua",
+    "Umidade": 94.8,
+    "Energia_kcal": 13,
+    "Proteina": 1.8,
+    "Carboidrato": 2.2,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 153,
+    "Descricao": "Salsa crua",
+    "Umidade": 88.7,
+    "Energia_kcal": 33,
+    "Proteina": 3.3,
+    "Carboidrato": 5.7,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 154,
+    "Descricao": "Seleta de legumes enlatada",
+    "Umidade": 82.1,
+    "Energia_kcal": 57,
+    "Proteina": 3.4,
+    "Carboidrato": 12.7,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 155,
+    "Descricao": "Serralha crua",
+    "Umidade": 90.2,
+    "Energia_kcal": 30,
+    "Proteina": 2.7,
+    "Carboidrato": 4.9,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 156,
+    "Descricao": "Taioba crua",
+    "Umidade": 89.2,
+    "Energia_kcal": 34,
+    "Proteina": 2.9,
+    "Carboidrato": 5.4,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 157,
+    "Descricao": "Tomate com semente cru",
+    "Umidade": 95.1,
+    "Energia_kcal": 15,
+    "Proteina": 1.1,
+    "Carboidrato": 3.1,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 158,
+    "Descricao": "Tomate extrato",
+    "Umidade": 79.7,
+    "Energia_kcal": 61,
+    "Proteina": 2.4,
+    "Carboidrato": 15.0,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 159,
+    "Descricao": "Tomate molho industrializado",
+    "Umidade": 88.1,
+    "Energia_kcal": 38,
+    "Proteina": 1.4,
+    "Carboidrato": 7.7,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 160,
+    "Descricao": "Tomate pure",
+    "Umidade": 90.8,
+    "Energia_kcal": 28,
+    "Proteina": 1.4,
+    "Carboidrato": 6.9,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 161,
+    "Descricao": "Tomate salada",
+    "Umidade": 93.6,
+    "Energia_kcal": 21,
+    "Proteina": 0.8,
+    "Carboidrato": 5.1,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 162,
+    "Descricao": "Vagem crua",
+    "Umidade": 92.2,
+    "Energia_kcal": 25,
+    "Proteina": 1.8,
+    "Carboidrato": 5.3,
+    "Categoria": "Verduras hortaliças e derivados"
+  },
+  {
+    "Numero": 163,
+    "Descricao": "Abacate cru",
+    "Umidade": 83.8,
+    "Energia_kcal": 96,
+    "Proteina": 1.2,
+    "Carboidrato": 6.0,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 164,
+    "Descricao": "Abacaxi cru",
+    "Umidade": 86.3,
+    "Energia_kcal": 48,
+    "Proteina": 0.9,
+    "Carboidrato": 12.3,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 165,
+    "Descricao": "Abacaxi polpa congelada",
+    "Umidade": 91.3,
+    "Energia_kcal": 31,
+    "Proteina": 0.5,
+    "Carboidrato": 7.8,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 166,
+    "Descricao": "Abiu cru",
+    "Umidade": 83.1,
+    "Energia_kcal": 62,
+    "Proteina": 0.8,
+    "Carboidrato": 14.9,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 167,
+    "Descricao": "Acai polpa com xarope de guarana e glucose",
+    "Umidade": 73.9,
+    "Energia_kcal": 110,
+    "Proteina": 0.7,
+    "Carboidrato": 21.5,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 168,
+    "Descricao": "Acai polpa congelada",
+    "Umidade": 88.7,
+    "Energia_kcal": 58,
+    "Proteina": 0.8,
+    "Carboidrato": 6.2,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 169,
+    "Descricao": "Acerola crua",
+    "Umidade": 90.5,
+    "Energia_kcal": 33,
+    "Proteina": 0.9,
+    "Carboidrato": 8.0,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 170,
+    "Descricao": "Acerola polpa congelada",
+    "Umidade": 93.6,
+    "Energia_kcal": 22,
+    "Proteina": 0.6,
+    "Carboidrato": 5.5,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 171,
+    "Descricao": "Ameixa calda enlatada",
+    "Umidade": 52.2,
+    "Energia_kcal": 183,
+    "Proteina": 0.4,
+    "Carboidrato": 46.9,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 172,
+    "Descricao": "Ameixa crua",
+    "Umidade": 84.8,
+    "Energia_kcal": 53,
+    "Proteina": 0.8,
+    "Carboidrato": 13.9,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 173,
+    "Descricao": "Ameixa em calda enlatada drenada",
+    "Umidade": 50.3,
+    "Energia_kcal": 177,
+    "Proteina": 1.0,
+    "Carboidrato": 47.7,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 174,
+    "Descricao": "Atemoia crua",
+    "Umidade": 72.7,
+    "Energia_kcal": 97,
+    "Proteina": 1.0,
+    "Carboidrato": 25.3,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 175,
+    "Descricao": "Banana da terra crua",
+    "Umidade": 63.9,
+    "Energia_kcal": 128,
+    "Proteina": 1.4,
+    "Carboidrato": 33.7,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 176,
+    "Descricao": "Banana doce em barra",
+    "Umidade": 21.1,
+    "Energia_kcal": 280,
+    "Proteina": 2.2,
+    "Carboidrato": 75.7,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 177,
+    "Descricao": "Banana figo crua",
+    "Umidade": 70.1,
+    "Energia_kcal": 105,
+    "Proteina": 1.1,
+    "Carboidrato": 27.8,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 178,
+    "Descricao": "Banana maca crua",
+    "Umidade": 75.2,
+    "Energia_kcal": 87,
+    "Proteina": 1.8,
+    "Carboidrato": 22.3,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 179,
+    "Descricao": "Banana nanica crua",
+    "Umidade": 73.8,
+    "Energia_kcal": 92,
+    "Proteina": 1.4,
+    "Carboidrato": 23.8,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 180,
+    "Descricao": "Banana ouro crua",
+    "Umidade": 68.2,
+    "Energia_kcal": 112,
+    "Proteina": 1.5,
+    "Carboidrato": 29.3,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 181,
+    "Descricao": "Banana pacova crua",
+    "Umidade": 77.7,
+    "Energia_kcal": 78,
+    "Proteina": 1.2,
+    "Carboidrato": 20.3,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 182,
+    "Descricao": "Banana prata crua",
+    "Umidade": 71.9,
+    "Energia_kcal": 98,
+    "Proteina": 1.3,
+    "Carboidrato": 26.0,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 183,
+    "Descricao": "Cacau cru",
+    "Umidade": 79.2,
+    "Energia_kcal": 74,
+    "Proteina": 1.0,
+    "Carboidrato": 19.4,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 184,
+    "Descricao": "Caja-Manga cru",
+    "Umidade": 86.9,
+    "Energia_kcal": 46,
+    "Proteina": 1.3,
+    "Carboidrato": 11.4,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 185,
+    "Descricao": "Caja polpa congelada",
+    "Umidade": 92.4,
+    "Energia_kcal": 26,
+    "Proteina": 0.6,
+    "Carboidrato": 6.4,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 186,
+    "Descricao": "Caju cru",
+    "Umidade": 88.1,
+    "Energia_kcal": 43,
+    "Proteina": 1.0,
+    "Carboidrato": 10.3,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 187,
+    "Descricao": "Caju polpa congelada",
+    "Umidade": 89.8,
+    "Energia_kcal": 37,
+    "Proteina": 0.5,
+    "Carboidrato": 9.4,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 188,
+    "Descricao": "Caju suco concentrado envasado",
+    "Umidade": 88.4,
+    "Energia_kcal": 45,
+    "Proteina": 0.4,
+    "Carboidrato": 10.7,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 189,
+    "Descricao": "Caqui chocolate cru",
+    "Umidade": 79.7,
+    "Energia_kcal": 71,
+    "Proteina": 0.4,
+    "Carboidrato": 19.3,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 190,
+    "Descricao": "Carambola crua",
+    "Umidade": 87.1,
+    "Energia_kcal": 46,
+    "Proteina": 0.9,
+    "Carboidrato": 11.5,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 191,
+    "Descricao": "Ciriguela crua",
+    "Umidade": 78.7,
+    "Energia_kcal": 76,
+    "Proteina": 1.4,
+    "Carboidrato": 18.9,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 192,
+    "Descricao": "Cupuacu cru",
+    "Umidade": 86.2,
+    "Energia_kcal": 49,
+    "Proteina": 1.2,
+    "Carboidrato": 10.4,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 193,
+    "Descricao": "Cupuacu polpa congelada",
+    "Umidade": 86.6,
+    "Energia_kcal": 49,
+    "Proteina": 0.8,
+    "Carboidrato": 11.4,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 194,
+    "Descricao": "Figo cru",
+    "Umidade": 88.2,
+    "Energia_kcal": 41,
+    "Proteina": 1.0,
+    "Carboidrato": 10.2,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 195,
+    "Descricao": "Figo enlatado em calda",
+    "Umidade": 48.8,
+    "Energia_kcal": 184,
+    "Proteina": 0.6,
+    "Carboidrato": 50.3,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 196,
+    "Descricao": "Fruta-pao crua",
+    "Umidade": 80.9,
+    "Energia_kcal": 67,
+    "Proteina": 1.1,
+    "Carboidrato": 17.2,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 197,
+    "Descricao": "Goiaba branca com casca crua",
+    "Umidade": 85.7,
+    "Energia_kcal": 52,
+    "Proteina": 0.9,
+    "Carboidrato": 12.4,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 198,
+    "Descricao": "Goiaba doce em pasta",
+    "Umidade": 24.8,
+    "Energia_kcal": 269,
+    "Proteina": 0.6,
+    "Carboidrato": 74.1,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 199,
+    "Descricao": "Goiaba doce cascao",
+    "Umidade": 20.3,
+    "Energia_kcal": 286,
+    "Proteina": 0.4,
+    "Carboidrato": 78.7,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 200,
+    "Descricao": "Goiaba vermelha com casca crua",
+    "Umidade": 85.0,
+    "Energia_kcal": 54,
+    "Proteina": 1.1,
+    "Carboidrato": 13.0,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 201,
+    "Descricao": "Graviola crua",
+    "Umidade": 82.2,
+    "Energia_kcal": 62,
+    "Proteina": 0.8,
+    "Carboidrato": 15.8,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 202,
+    "Descricao": "Graviola polpa congelada",
+    "Umidade": 89.2,
+    "Energia_kcal": 38,
+    "Proteina": 0.6,
+    "Carboidrato": 9.8,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 203,
+    "Descricao": "Jabuticaba crua",
+    "Umidade": 83.6,
+    "Energia_kcal": 58,
+    "Proteina": 0.6,
+    "Carboidrato": 15.3,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 204,
+    "Descricao": "Jaca crua",
+    "Umidade": 75.1,
+    "Energia_kcal": 88,
+    "Proteina": 1.4,
+    "Carboidrato": 22.5,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 205,
+    "Descricao": "Jambo cru",
+    "Umidade": 92.1,
+    "Energia_kcal": 27,
+    "Proteina": 0.9,
+    "Carboidrato": 6.5,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 206,
+    "Descricao": "Jamelao cru",
+    "Umidade": 87.7,
+    "Energia_kcal": 41,
+    "Proteina": 0.5,
+    "Carboidrato": 10.6,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 207,
+    "Descricao": "Kiwi cru",
+    "Umidade": 85.9,
+    "Energia_kcal": 51,
+    "Proteina": 1.3,
+    "Carboidrato": 11.5,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 208,
+    "Descricao": "Laranja baia crua",
+    "Umidade": 87.1,
+    "Energia_kcal": 45,
+    "Proteina": 1.0,
+    "Carboidrato": 11.5,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 209,
+    "Descricao": "Laranja baia suco",
+    "Umidade": 90.2,
+    "Energia_kcal": 37,
+    "Proteina": 0.7,
+    "Carboidrato": 8.7,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 210,
+    "Descricao": "Laranja da terra crua",
+    "Umidade": 85.4,
+    "Energia_kcal": 51,
+    "Proteina": 1.1,
+    "Carboidrato": 12.9,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 211,
+    "Descricao": "Laranja da terra suco",
+    "Umidade": 89.2,
+    "Energia_kcal": 41,
+    "Proteina": 0.7,
+    "Carboidrato": 9.6,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 212,
+    "Descricao": "Laranja lima crua",
+    "Umidade": 87.0,
+    "Energia_kcal": 46,
+    "Proteina": 1.1,
+    "Carboidrato": 11.5,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 213,
+    "Descricao": "Laranja lima suco",
+    "Umidade": 89.7,
+    "Energia_kcal": 39,
+    "Proteina": 0.7,
+    "Carboidrato": 9.2,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 214,
+    "Descricao": "Laranja pera crua",
+    "Umidade": 89.6,
+    "Energia_kcal": 37,
+    "Proteina": 1.0,
+    "Carboidrato": 8.9,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 215,
+    "Descricao": "Laranja pera suco",
+    "Umidade": 91.3,
+    "Energia_kcal": 33,
+    "Proteina": 0.7,
+    "Carboidrato": 7.6,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 216,
+    "Descricao": "Laranja valencia crua",
+    "Umidade": 86.9,
+    "Energia_kcal": 46,
+    "Proteina": 0.8,
+    "Carboidrato": 11.7,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 217,
+    "Descricao": "Laranja valencia suco",
+    "Umidade": 90.5,
+    "Energia_kcal": 36,
+    "Proteina": 0.5,
+    "Carboidrato": 8.6,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 218,
+    "Descricao": "Limon cravo suco",
+    "Umidade": 94.2,
+    "Energia_kcal": 14,
+    "Proteina": 0.3,
+    "Carboidrato": 5.2,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 219,
+    "Descricao": "Limon galego suco",
+    "Umidade": 91.8,
+    "Energia_kcal": 22,
+    "Proteina": 0.6,
+    "Carboidrato": 7.3,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 220,
+    "Descricao": "Limon tahiti cru",
+    "Umidade": 87.4,
+    "Energia_kcal": 32,
+    "Proteina": 0.9,
+    "Carboidrato": 11.1,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 221,
+    "Descricao": "Maca Argentina com casca crua",
+    "Umidade": 82.6,
+    "Energia_kcal": 63,
+    "Proteina": 0.2,
+    "Carboidrato": 16.6,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 222,
+    "Descricao": "Maca Fuji com casca crua",
+    "Umidade": 84.3,
+    "Energia_kcal": 56,
+    "Proteina": 0.3,
+    "Carboidrato": 15.2,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 223,
+    "Descricao": "Macauba crua",
+    "Umidade": 41.5,
+    "Energia_kcal": 404,
+    "Proteina": 2.1,
+    "Carboidrato": 13.9,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 224,
+    "Descricao": "Mamao doce em calda drenado",
+    "Umidade": 45.5,
+    "Energia_kcal": 196,
+    "Proteina": 0.2,
+    "Carboidrato": 54.0,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 225,
+    "Descricao": "Mamao Formosa cru",
+    "Umidade": 86.9,
+    "Energia_kcal": 45,
+    "Proteina": 0.8,
+    "Carboidrato": 11.6,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 226,
+    "Descricao": "Mamao Papaia cru",
+    "Umidade": 88.6,
+    "Energia_kcal": 40,
+    "Proteina": 0.5,
+    "Carboidrato": 10.4,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 227,
+    "Descricao": "Mamao verde doce em calda drenado",
+    "Umidade": 41.9,
+    "Energia_kcal": 209,
+    "Proteina": 0.3,
+    "Carboidrato": 57.6,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 228,
+    "Descricao": "Manga Haden crua",
+    "Umidade": 82.3,
+    "Energia_kcal": 64,
+    "Proteina": 0.4,
+    "Carboidrato": 16.7,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 229,
+    "Descricao": "Manga Palmer crua",
+    "Umidade": 79.7,
+    "Energia_kcal": 72,
+    "Proteina": 0.4,
+    "Carboidrato": 19.4,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 230,
+    "Descricao": "Manga polpa congelada",
+    "Umidade": 86.5,
+    "Energia_kcal": 48,
+    "Proteina": 0.4,
+    "Carboidrato": 12.5,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 231,
+    "Descricao": "Manga Tommy Atkins crua",
+    "Umidade": 85.8,
+    "Energia_kcal": 51,
+    "Proteina": 0.9,
+    "Carboidrato": 12.8,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 232,
+    "Descricao": "Maracuja cru",
+    "Umidade": 82.9,
+    "Energia_kcal": 68,
+    "Proteina": 2.0,
+    "Carboidrato": 12.3,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 233,
+    "Descricao": "Maracuja polpa congelada",
+    "Umidade": 88.9,
+    "Energia_kcal": 39,
+    "Proteina": 0.8,
+    "Carboidrato": 9.6,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 234,
+    "Descricao": "Maracuja suco concentrado envasado",
+    "Umidade": 88.9,
+    "Energia_kcal": 42,
+    "Proteina": 0.8,
+    "Carboidrato": 9.6,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 235,
+    "Descricao": "Melancia crua",
+    "Umidade": 90.7,
+    "Energia_kcal": 33,
+    "Proteina": 0.9,
+    "Carboidrato": 8.1,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 236,
+    "Descricao": "Melao cru",
+    "Umidade": 91.3,
+    "Energia_kcal": 29,
+    "Proteina": 0.7,
+    "Carboidrato": 7.5,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 237,
+    "Descricao": "Mexerica Murcote crua",
+    "Umidade": 83.7,
+    "Energia_kcal": 58,
+    "Proteina": 0.9,
+    "Carboidrato": 14.9,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 238,
+    "Descricao": "Mexerica Rio crua",
+    "Umidade": 89.6,
+    "Energia_kcal": 37,
+    "Proteina": 0.7,
+    "Carboidrato": 9.3,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 239,
+    "Descricao": "Morango cru",
+    "Umidade": 91.5,
+    "Energia_kcal": 30,
+    "Proteina": 0.9,
+    "Carboidrato": 6.8,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 240,
+    "Descricao": "Nespera crua",
+    "Umidade": 87.8,
+    "Energia_kcal": 43,
+    "Proteina": 0.3,
+    "Carboidrato": 11.5,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 241,
+    "Descricao": "Pequi cru",
+    "Umidade": 65.9,
+    "Energia_kcal": 205,
+    "Proteina": 2.3,
+    "Carboidrato": 13.0,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 242,
+    "Descricao": "Pera Park crua",
+    "Umidade": 83.2,
+    "Energia_kcal": 61,
+    "Proteina": 0.2,
+    "Carboidrato": 16.1,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 243,
+    "Descricao": "Pera Williams crua",
+    "Umidade": 85.0,
+    "Energia_kcal": 53,
+    "Proteina": 0.6,
+    "Carboidrato": 14.0,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 244,
+    "Descricao": "Pessego Aurora cru",
+    "Umidade": 89.3,
+    "Energia_kcal": 36,
+    "Proteina": 0.8,
+    "Carboidrato": 9.3,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 245,
+    "Descricao": "Pessego enlatado em calda",
+    "Umidade": 82.2,
+    "Energia_kcal": 63,
+    "Proteina": 0.7,
+    "Carboidrato": 16.9,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 246,
+    "Descricao": "Pinha crua",
+    "Umidade": 75.0,
+    "Energia_kcal": 88,
+    "Proteina": 1.5,
+    "Carboidrato": 22.4,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 247,
+    "Descricao": "Pitanga crua",
+    "Umidade": 88.3,
+    "Energia_kcal": 41,
+    "Proteina": 0.9,
+    "Carboidrato": 10.2,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 248,
+    "Descricao": "Pitanga polpa congelada",
+    "Umidade": 94.6,
+    "Energia_kcal": 19,
+    "Proteina": 0.3,
+    "Carboidrato": 4.8,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 249,
+    "Descricao": "Roma crua",
+    "Umidade": 84.0,
+    "Energia_kcal": 56,
+    "Proteina": 0.4,
+    "Carboidrato": 15.1,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 250,
+    "Descricao": "Tamarindo cru",
+    "Umidade": 22.0,
+    "Energia_kcal": 276,
+    "Proteina": 3.2,
+    "Carboidrato": 72.5,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 251,
+    "Descricao": "Tangerina Ponca crua",
+    "Umidade": 89.2,
+    "Energia_kcal": 38,
+    "Proteina": 0.8,
+    "Carboidrato": 9.6,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 252,
+    "Descricao": "Tangerina Ponca suco",
+    "Umidade": 90.4,
+    "Energia_kcal": 36,
+    "Proteina": 0.5,
+    "Carboidrato": 8.8,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 253,
+    "Descricao": "Tucuma cru",
+    "Umidade": 51.3,
+    "Energia_kcal": 262,
+    "Proteina": 2.1,
+    "Carboidrato": 26.5,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 254,
+    "Descricao": "Umbu cru",
+    "Umidade": 89.3,
+    "Energia_kcal": 37,
+    "Proteina": 0.8,
+    "Carboidrato": 9.4,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 255,
+    "Descricao": "Umbu polpa congelada",
+    "Umidade": 90.2,
+    "Energia_kcal": 34,
+    "Proteina": 0.5,
+    "Carboidrato": 8.8,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 256,
+    "Descricao": "Uva Italia crua",
+    "Umidade": 85.0,
+    "Energia_kcal": 53,
+    "Proteina": 0.7,
+    "Carboidrato": 13.6,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 257,
+    "Descricao": "Uva Rubi crua",
+    "Umidade": 86.1,
+    "Energia_kcal": 49,
+    "Proteina": 0.6,
+    "Carboidrato": 12.7,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 258,
+    "Descricao": "Uva suco concentrado envasado",
+    "Umidade": 85.1,
+    "Energia_kcal": 58,
+    "Proteina": 0.0,
+    "Carboidrato": 14.7,
+    "Categoria": "Frutas e derivados"
+  },
+  {
+    "Numero": 259,
+    "Descricao": "Azeite de dende",
+    "Umidade": 0.0,
+    "Energia_kcal": 884,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Gorduras e oleos"
+  },
+  {
+    "Numero": 260,
+    "Descricao": "Azeite de oliva extra virgem",
+    "Umidade": 0.0,
+    "Energia_kcal": 884,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Gorduras e oleos"
+  },
+  {
+    "Numero": 261,
+    "Descricao": "Manteiga com sal",
+    "Umidade": 15.8,
+    "Energia_kcal": 726,
+    "Proteina": 0.4,
+    "Carboidrato": 0.1,
+    "Categoria": "Gorduras e oleos"
+  },
+  {
+    "Numero": 262,
+    "Descricao": "Manteiga sem sal",
+    "Umidade": 13.6,
+    "Energia_kcal": 758,
+    "Proteina": 0.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Gorduras e oleos"
+  },
+  {
+    "Numero": 263,
+    "Descricao": "Margarina com oleo hidrogenado com sal (65% de lipideos)",
+    "Umidade": 32.2,
+    "Energia_kcal": 596,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Gorduras e oleos"
+  },
+  {
+    "Numero": 264,
+    "Descricao": "Margarina com oleo hidrogenado sem sal (80% de lipideos)",
+    "Umidade": 19.6,
+    "Energia_kcal": 723,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Gorduras e oleos"
+  },
+  {
+    "Numero": 265,
+    "Descricao": "Margarina com oleo interesterificado com sal (65% de lipideos)",
+    "Umidade": 32.0,
+    "Energia_kcal": 594,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Gorduras e oleos"
+  },
+  {
+    "Numero": 266,
+    "Descricao": "Margarina com oleo interesterificado sem sal (65% de lipideos)",
+    "Umidade": 33.4,
+    "Energia_kcal": 593,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Gorduras e oleos"
+  },
+  {
+    "Numero": 267,
+    "Descricao": "Oleo de babacu",
+    "Umidade": 0.0,
+    "Energia_kcal": 884,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Gorduras e oleos"
+  },
+  {
+    "Numero": 268,
+    "Descricao": "Oleo de canola",
+    "Umidade": 0.0,
+    "Energia_kcal": 884,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Gorduras e oleos"
+  },
+  {
+    "Numero": 269,
+    "Descricao": "Oleo de girassol",
+    "Umidade": 0.0,
+    "Energia_kcal": 884,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Gorduras e oleos"
+  },
+  {
+    "Numero": 270,
+    "Descricao": "Oleo de milho",
+    "Umidade": 0.0,
+    "Energia_kcal": 884,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Gorduras e oleos"
+  },
+  {
+    "Numero": 271,
+    "Descricao": "Oleo de pequi",
+    "Umidade": 0.0,
+    "Energia_kcal": 884,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Gorduras e oleos"
+  },
+  {
+    "Numero": 272,
+    "Descricao": "Oleo de soja",
+    "Umidade": 0.0,
+    "Energia_kcal": 884,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Gorduras e oleos"
+  },
+  {
+    "Numero": 273,
+    "Descricao": "Abadejo file congelado assado",
+    "Umidade": 74.3,
+    "Energia_kcal": 112,
+    "Proteina": 23.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 274,
+    "Descricao": "Abadejo file congelado cozido",
+    "Umidade": 79.7,
+    "Energia_kcal": 91,
+    "Proteina": 19.3,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 275,
+    "Descricao": "Abadejo file congelado cru",
+    "Umidade": 86.4,
+    "Energia_kcal": 59,
+    "Proteina": 13.1,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 276,
+    "Descricao": "Abadejo file congelado grelhado",
+    "Umidade": 71.0,
+    "Energia_kcal": 130,
+    "Proteina": 27.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 277,
+    "Descricao": "Atum conserva em oleo",
+    "Umidade": 64.5,
+    "Energia_kcal": 166,
+    "Proteina": 26.2,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 278,
+    "Descricao": "Atum fresco cru",
+    "Umidade": 73.1,
+    "Energia_kcal": 118,
+    "Proteina": 25.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 279,
+    "Descricao": "Bacalhau salgado cru",
+    "Umidade": 47.9,
+    "Energia_kcal": 136,
+    "Proteina": 29.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 280,
+    "Descricao": "Bacalhau salgado refogado",
+    "Umidade": 65.9,
+    "Energia_kcal": 140,
+    "Proteina": 24.0,
+    "Carboidrato": 1.2,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 281,
+    "Descricao": "Cacao posta com farinha de trigo frita",
+    "Umidade": 60.6,
+    "Energia_kcal": 208,
+    "Proteina": 25.0,
+    "Carboidrato": 3.1,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 282,
+    "Descricao": "Cacao posta cozida",
+    "Umidade": 75.9,
+    "Energia_kcal": 116,
+    "Proteina": 25.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 283,
+    "Descricao": "Cacao posta crua",
+    "Umidade": 81.4,
+    "Energia_kcal": 83,
+    "Proteina": 17.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 284,
+    "Descricao": "Camarao Rio Grande grande cozido",
+    "Umidade": 78.7,
+    "Energia_kcal": 90,
+    "Proteina": 19.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 285,
+    "Descricao": "Camarao Rio Grande grande cru",
+    "Umidade": 89.1,
+    "Energia_kcal": 47,
+    "Proteina": 10.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 286,
+    "Descricao": "Camarao Sete Barbas sem cabeca com casca frito",
+    "Umidade": 61.0,
+    "Energia_kcal": 231,
+    "Proteina": 18.4,
+    "Carboidrato": 2.9,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 287,
+    "Descricao": "Caranguejo cozido",
+    "Umidade": 77.0,
+    "Energia_kcal": 83,
+    "Proteina": 18.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 288,
+    "Descricao": "Corimba cru",
+    "Umidade": 75.6,
+    "Energia_kcal": 128,
+    "Proteina": 17.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 289,
+    "Descricao": "Corimbata assado",
+    "Umidade": 59.9,
+    "Energia_kcal": 261,
+    "Proteina": 19.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 290,
+    "Descricao": "Corimbata cozido",
+    "Umidade": 64.6,
+    "Energia_kcal": 239,
+    "Proteina": 20.1,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 291,
+    "Descricao": "Corvina de agua doce crua",
+    "Umidade": 79.2,
+    "Energia_kcal": 101,
+    "Proteina": 18.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 292,
+    "Descricao": "Corvina do mar crua",
+    "Umidade": 79.4,
+    "Energia_kcal": 94,
+    "Proteina": 18.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 293,
+    "Descricao": "Corvina grande assada",
+    "Umidade": 69.0,
+    "Energia_kcal": 147,
+    "Proteina": 26.8,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 294,
+    "Descricao": "Corvina grande cozida",
+    "Umidade": 73.6,
+    "Energia_kcal": 100,
+    "Proteina": 23.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 295,
+    "Descricao": "Dourada de agua doce fresca",
+    "Umidade": 76.2,
+    "Energia_kcal": 131,
+    "Proteina": 18.8,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 296,
+    "Descricao": "Lambari congelado cru",
+    "Umidade": 71.9,
+    "Energia_kcal": 131,
+    "Proteina": 16.8,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 297,
+    "Descricao": "Lambari congelado frito",
+    "Umidade": 40.1,
+    "Energia_kcal": 327,
+    "Proteina": 28.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 298,
+    "Descricao": "Lambari fresco cru",
+    "Umidade": 72.2,
+    "Energia_kcal": 152,
+    "Proteina": 15.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 299,
+    "Descricao": "Manjuba com farinha de trigo frita",
+    "Umidade": 41.3,
+    "Energia_kcal": 344,
+    "Proteina": 23.5,
+    "Carboidrato": 10.2,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 300,
+    "Descricao": "Manjuba frita",
+    "Umidade": 40.7,
+    "Energia_kcal": 349,
+    "Proteina": 30.1,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 301,
+    "Descricao": "Merluza file assado",
+    "Umidade": 70.7,
+    "Energia_kcal": 122,
+    "Proteina": 26.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 302,
+    "Descricao": "Merluza file cru",
+    "Umidade": 82.1,
+    "Energia_kcal": 89,
+    "Proteina": 16.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 303,
+    "Descricao": "Merluza file frito",
+    "Umidade": 63.5,
+    "Energia_kcal": 192,
+    "Proteina": 26.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 304,
+    "Descricao": "Pescada branca crua",
+    "Umidade": 79.6,
+    "Energia_kcal": 111,
+    "Proteina": 16.3,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 305,
+    "Descricao": "Pescada branca frita",
+    "Umidade": 57.0,
+    "Energia_kcal": 223,
+    "Proteina": 27.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 306,
+    "Descricao": "Pescada file com farinha de trigo frito",
+    "Umidade": 53.2,
+    "Energia_kcal": 283,
+    "Proteina": 21.4,
+    "Carboidrato": 5.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 307,
+    "Descricao": "Pescada file cru",
+    "Umidade": 79.5,
+    "Energia_kcal": 107,
+    "Proteina": 16.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 308,
+    "Descricao": "Pescada file frito",
+    "Umidade": 66.8,
+    "Energia_kcal": 154,
+    "Proteina": 28.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 309,
+    "Descricao": "Pescada file molho escabeche",
+    "Umidade": 74.5,
+    "Energia_kcal": 142,
+    "Proteina": 11.8,
+    "Carboidrato": 5.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 310,
+    "Descricao": "Pescadinha crua",
+    "Umidade": 80.6,
+    "Energia_kcal": 76,
+    "Proteina": 15.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 311,
+    "Descricao": "Pintado assado",
+    "Umidade": 57.0,
+    "Energia_kcal": 192,
+    "Proteina": 36.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 312,
+    "Descricao": "Pintado cru",
+    "Umidade": 80.3,
+    "Energia_kcal": 91,
+    "Proteina": 18.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 313,
+    "Descricao": "Pintado grelhado",
+    "Umidade": 65.5,
+    "Energia_kcal": 152,
+    "Proteina": 30.8,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 314,
+    "Descricao": "Porquinho cru",
+    "Umidade": 79.2,
+    "Energia_kcal": 93,
+    "Proteina": 20.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 315,
+    "Descricao": "Salmao file com pele fresco grelhado",
+    "Umidade": 60.9,
+    "Energia_kcal": 229,
+    "Proteina": 23.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 316,
+    "Descricao": "Salmao sem pele fresco cru",
+    "Umidade": 69.0,
+    "Energia_kcal": 170,
+    "Proteina": 19.3,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 317,
+    "Descricao": "Salmao sem pele fresco grelhado",
+    "Umidade": 58.1,
+    "Energia_kcal": 243,
+    "Proteina": 26.1,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 318,
+    "Descricao": "Sardinha assada",
+    "Umidade": 60.1,
+    "Energia_kcal": 164,
+    "Proteina": 32.2,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 319,
+    "Descricao": "Sardinha conserva em oleo",
+    "Umidade": 55.1,
+    "Energia_kcal": 285,
+    "Proteina": 15.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 320,
+    "Descricao": "Sardinha frita",
+    "Umidade": 48.5,
+    "Energia_kcal": 257,
+    "Proteina": 33.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 321,
+    "Descricao": "Sardinha inteira crua",
+    "Umidade": 76.6,
+    "Energia_kcal": 114,
+    "Proteina": 21.1,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 322,
+    "Descricao": "Tucunare file congelado cru",
+    "Umidade": 79.9,
+    "Energia_kcal": 88,
+    "Proteina": 18.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Pescados e frutos do mar"
+  },
+  {
+    "Numero": 323,
+    "Descricao": "Apresuntado",
+    "Umidade": 73.7,
+    "Energia_kcal": 129,
+    "Proteina": 13.5,
+    "Carboidrato": 2.9,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 324,
+    "Descricao": "Caldo de carne tablete",
+    "Umidade": 2.9,
+    "Energia_kcal": 241,
+    "Proteina": 7.8,
+    "Carboidrato": 15.1,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 325,
+    "Descricao": "Caldo de galinha tablete",
+    "Umidade": 3.4,
+    "Energia_kcal": 251,
+    "Proteina": 6.3,
+    "Carboidrato": 10.6,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 326,
+    "Descricao": "Carne bovina acem moido cozido",
+    "Umidade": 61.6,
+    "Energia_kcal": 212,
+    "Proteina": 26.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 327,
+    "Descricao": "Carne bovina acem moido cru",
+    "Umidade": 72.7,
+    "Energia_kcal": 137,
+    "Proteina": 19.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 328,
+    "Descricao": "Carne bovina acem sem gordura cozido",
+    "Umidade": 60.4,
+    "Energia_kcal": 215,
+    "Proteina": 27.3,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 329,
+    "Descricao": "Carne bovina acem sem gordura cru",
+    "Umidade": 71.5,
+    "Energia_kcal": 144,
+    "Proteina": 20.8,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 330,
+    "Descricao": "Carne bovina almondegas cruas",
+    "Umidade": 64.3,
+    "Energia_kcal": 189,
+    "Proteina": 12.3,
+    "Carboidrato": 9.8,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 331,
+    "Descricao": "Carne bovina almondegas fritas",
+    "Umidade": 48.1,
+    "Energia_kcal": 272,
+    "Proteina": 18.2,
+    "Carboidrato": 14.3,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 332,
+    "Descricao": "Carne bovina bucho cozido",
+    "Umidade": 74.1,
+    "Energia_kcal": 133,
+    "Proteina": 21.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 333,
+    "Descricao": "Carne bovina bucho cru",
+    "Umidade": 75.0,
+    "Energia_kcal": 137,
+    "Proteina": 20.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 334,
+    "Descricao": "Carne bovina capa de contra-file com gordura crua",
+    "Umidade": 64.8,
+    "Energia_kcal": 217,
+    "Proteina": 19.2,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 335,
+    "Descricao": "Carne bovina capa de contra-file com gordura grelhada",
+    "Umidade": 47.9,
+    "Energia_kcal": 312,
+    "Proteina": 30.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 336,
+    "Descricao": "Carne bovina capa de contra-file sem gordura crua",
+    "Umidade": 73.0,
+    "Energia_kcal": 131,
+    "Proteina": 21.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 337,
+    "Descricao": "Carne bovina capa de contra-file sem gordura grelhada",
+    "Umidade": 53.7,
+    "Energia_kcal": 239,
+    "Proteina": 35.1,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 338,
+    "Descricao": "Carne bovina charque cozido",
+    "Umidade": 45.8,
+    "Energia_kcal": 263,
+    "Proteina": 36.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 339,
+    "Descricao": "Carne bovina charque cru",
+    "Umidade": 44.5,
+    "Energia_kcal": 249,
+    "Proteina": 22.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 340,
+    "Descricao": "Carne bovina contra-file a milanesa",
+    "Umidade": 42.2,
+    "Energia_kcal": 352,
+    "Proteina": 20.6,
+    "Carboidrato": 12.2,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 341,
+    "Descricao": "Carne bovina contra-file de costela cru",
+    "Umidade": 66.4,
+    "Energia_kcal": 202,
+    "Proteina": 19.8,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 342,
+    "Descricao": "Carne bovina contra-file de costela grelhado",
+    "Umidade": 52.2,
+    "Energia_kcal": 275,
+    "Proteina": 29.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 343,
+    "Descricao": "Carne bovina contra-file com gordura cru",
+    "Umidade": 65.7,
+    "Energia_kcal": 206,
+    "Proteina": 21.2,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 344,
+    "Descricao": "Carne bovina contra-file com gordura grelhado",
+    "Umidade": 51.7,
+    "Energia_kcal": 278,
+    "Proteina": 32.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 345,
+    "Descricao": "Carne bovina contra-file sem gordura cru",
+    "Umidade": 69.1,
+    "Energia_kcal": 157,
+    "Proteina": 24.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 346,
+    "Descricao": "Carne bovina contra-file sem gordura grelhado",
+    "Umidade": 57.5,
+    "Energia_kcal": 194,
+    "Proteina": 35.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 347,
+    "Descricao": "Carne bovina costela assada",
+    "Umidade": 43.2,
+    "Energia_kcal": 373,
+    "Proteina": 28.8,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 348,
+    "Descricao": "Carne bovina costela crua",
+    "Umidade": 52.7,
+    "Energia_kcal": 358,
+    "Proteina": 16.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 349,
+    "Descricao": "Carne bovina coxao duro sem gordura cozido",
+    "Umidade": 58.5,
+    "Energia_kcal": 217,
+    "Proteina": 31.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 350,
+    "Descricao": "Carne bovina coxao duro sem gordura cru",
+    "Umidade": 69.8,
+    "Energia_kcal": 148,
+    "Proteina": 21.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 351,
+    "Descricao": "Carne bovina coxao mole sem gordura cozido",
+    "Umidade": 58.0,
+    "Energia_kcal": 219,
+    "Proteina": 32.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 352,
+    "Descricao": "Carne bovina coxao mole sem gordura cru",
+    "Umidade": 68.6,
+    "Energia_kcal": 169,
+    "Proteina": 21.2,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 353,
+    "Descricao": "Carne bovina cupim assado",
+    "Umidade": 48.4,
+    "Energia_kcal": 330,
+    "Proteina": 28.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 354,
+    "Descricao": "Carne bovina cupim cru",
+    "Umidade": 64.8,
+    "Energia_kcal": 221,
+    "Proteina": 19.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 355,
+    "Descricao": "Carne bovina figado cru",
+    "Umidade": 71.3,
+    "Energia_kcal": 141,
+    "Proteina": 20.7,
+    "Carboidrato": 1.1,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 356,
+    "Descricao": "Carne bovina figado grelhado",
+    "Umidade": 55.0,
+    "Energia_kcal": 225,
+    "Proteina": 29.9,
+    "Carboidrato": 4.2,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 357,
+    "Descricao": "Carne bovina file mingnon sem gordura cru",
+    "Umidade": 71.9,
+    "Energia_kcal": 143,
+    "Proteina": 21.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 358,
+    "Descricao": "Carne bovina file mingnon sem gordura grelhado",
+    "Umidade": 57.0,
+    "Energia_kcal": 220,
+    "Proteina": 32.8,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 359,
+    "Descricao": "Carne bovina flanco sem gordura cozido",
+    "Umidade": 62.0,
+    "Energia_kcal": 196,
+    "Proteina": 29.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 360,
+    "Descricao": "Carne bovina flanco sem gordura cru",
+    "Umidade": 72.1,
+    "Energia_kcal": 141,
+    "Proteina": 20.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 361,
+    "Descricao": "Carne bovina fraldinha com gordura cozida",
+    "Umidade": 49.7,
+    "Energia_kcal": 338,
+    "Proteina": 24.2,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 362,
+    "Descricao": "Carne bovina fraldinha com gordura crua",
+    "Umidade": 65.4,
+    "Energia_kcal": 221,
+    "Proteina": 17.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 363,
+    "Descricao": "Carne bovina lagarto cozido",
+    "Umidade": 57.6,
+    "Energia_kcal": 222,
+    "Proteina": 32.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 364,
+    "Descricao": "Carne bovina lagarto cru",
+    "Umidade": 71.0,
+    "Energia_kcal": 135,
+    "Proteina": 20.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 365,
+    "Descricao": "Carne bovina lingua cozida",
+    "Umidade": 53.4,
+    "Energia_kcal": 315,
+    "Proteina": 21.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 366,
+    "Descricao": "Carne bovina lingua crua",
+    "Umidade": 65.0,
+    "Energia_kcal": 215,
+    "Proteina": 17.1,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 367,
+    "Descricao": "Carne bovina maminha crua",
+    "Umidade": 70.0,
+    "Energia_kcal": 153,
+    "Proteina": 20.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 368,
+    "Descricao": "Carne bovina maminha grelhada",
+    "Umidade": 65.3,
+    "Energia_kcal": 153,
+    "Proteina": 30.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 369,
+    "Descricao": "Carne bovina miolo de alcatra sem gordura cru",
+    "Umidade": 69.5,
+    "Energia_kcal": 163,
+    "Proteina": 21.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 370,
+    "Descricao": "Carne bovina miolo de alcatra sem gordura grelhado",
+    "Umidade": 52.4,
+    "Energia_kcal": 241,
+    "Proteina": 31.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 371,
+    "Descricao": "Carne bovina musculo sem gordura cozido",
+    "Umidade": 62.8,
+    "Energia_kcal": 194,
+    "Proteina": 31.2,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 372,
+    "Descricao": "Carne bovina musculo sem gordura cru",
+    "Umidade": 72.4,
+    "Energia_kcal": 142,
+    "Proteina": 21.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 373,
+    "Descricao": "Carne bovina paleta com gordura crua",
+    "Umidade": 70.6,
+    "Energia_kcal": 159,
+    "Proteina": 21.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 374,
+    "Descricao": "Carne bovina paleta sem gordura cozida",
+    "Umidade": 62.9,
+    "Energia_kcal": 194,
+    "Proteina": 29.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 375,
+    "Descricao": "Carne bovina paleta sem gordura crua",
+    "Umidade": 72.1,
+    "Energia_kcal": 141,
+    "Proteina": 21.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 376,
+    "Descricao": "Carne bovina patinho sem gordura cru",
+    "Umidade": 72.9,
+    "Energia_kcal": 133,
+    "Proteina": 21.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 377,
+    "Descricao": "Carne bovina patinho sem gordura grelhado",
+    "Umidade": 55.2,
+    "Energia_kcal": 219,
+    "Proteina": 35.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 378,
+    "Descricao": "Carne bovina peito sem gordura cozido",
+    "Umidade": 51.2,
+    "Energia_kcal": 338,
+    "Proteina": 22.2,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 379,
+    "Descricao": "Carne bovina peito sem gordura cru",
+    "Umidade": 61.5,
+    "Energia_kcal": 259,
+    "Proteina": 17.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 380,
+    "Descricao": "Carne bovina picanha com gordura crua",
+    "Umidade": 65.6,
+    "Energia_kcal": 213,
+    "Proteina": 18.8,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 381,
+    "Descricao": "Carne bovina picanha com gordura grelhada",
+    "Umidade": 53.4,
+    "Energia_kcal": 289,
+    "Proteina": 26.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 382,
+    "Descricao": "Carne bovina picanha sem gordura crua",
+    "Umidade": 72.4,
+    "Energia_kcal": 134,
+    "Proteina": 21.3,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 383,
+    "Descricao": "Carne bovina picanha sem gordura grelhada",
+    "Umidade": 54.6,
+    "Energia_kcal": 238,
+    "Proteina": 31.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 384,
+    "Descricao": "Carne bovina seca cozida",
+    "Umidade": 47.2,
+    "Energia_kcal": 313,
+    "Proteina": 26.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 385,
+    "Descricao": "Carne bovina seca crua",
+    "Umidade": 39.2,
+    "Energia_kcal": 313,
+    "Proteina": 19.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 386,
+    "Descricao": "Coxinha de frango frita",
+    "Umidade": 42.2,
+    "Energia_kcal": 283,
+    "Proteina": 9.6,
+    "Carboidrato": 34.5,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 387,
+    "Descricao": "Croquete de carne cru",
+    "Umidade": 56.0,
+    "Energia_kcal": 246,
+    "Proteina": 12.0,
+    "Carboidrato": 13.9,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 388,
+    "Descricao": "Croquete de carne frito",
+    "Umidade": 39.2,
+    "Energia_kcal": 347,
+    "Proteina": 16.9,
+    "Carboidrato": 18.1,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 389,
+    "Descricao": "Empada de frango pre-cozida assada",
+    "Umidade": 28.2,
+    "Energia_kcal": 358,
+    "Proteina": 6.9,
+    "Carboidrato": 47.5,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 390,
+    "Descricao": "Empada de frango pre-cozida",
+    "Umidade": 32.0,
+    "Energia_kcal": 377,
+    "Proteina": 7.3,
+    "Carboidrato": 35.5,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 391,
+    "Descricao": "Frango asa com pele crua",
+    "Umidade": 67.5,
+    "Energia_kcal": 213,
+    "Proteina": 18.1,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 392,
+    "Descricao": "Frango caipira inteiro com pele cozido",
+    "Umidade": 59.7,
+    "Energia_kcal": 243,
+    "Proteina": 23.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 393,
+    "Descricao": "Frango caipira inteiro sem pele cozido",
+    "Umidade": 61.4,
+    "Energia_kcal": 196,
+    "Proteina": 29.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 394,
+    "Descricao": "Frango coracao cru",
+    "Umidade": 69.1,
+    "Energia_kcal": 222,
+    "Proteina": 12.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 395,
+    "Descricao": "Frango coracao grelhado",
+    "Umidade": 63.5,
+    "Energia_kcal": 207,
+    "Proteina": 22.4,
+    "Carboidrato": 0.6,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 396,
+    "Descricao": "Frango coxa com pele assada",
+    "Umidade": 59.8,
+    "Energia_kcal": 215,
+    "Proteina": 28.5,
+    "Carboidrato": 0.1,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 397,
+    "Descricao": "Frango coxa com pele crua",
+    "Umidade": 72.9,
+    "Energia_kcal": 161,
+    "Proteina": 17.1,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 398,
+    "Descricao": "Frango coxa sem pele cozida",
+    "Umidade": 66.7,
+    "Energia_kcal": 167,
+    "Proteina": 26.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 399,
+    "Descricao": "Frango coxa sem pele crua",
+    "Umidade": 76.4,
+    "Energia_kcal": 120,
+    "Proteina": 17.8,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 400,
+    "Descricao": "Frango figado cru",
+    "Umidade": 77.8,
+    "Energia_kcal": 106,
+    "Proteina": 17.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 401,
+    "Descricao": "Frango file a milanesa",
+    "Umidade": 54.9,
+    "Energia_kcal": 221,
+    "Proteina": 28.5,
+    "Carboidrato": 7.5,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 402,
+    "Descricao": "Frango inteiro com pele cru",
+    "Umidade": 66.5,
+    "Energia_kcal": 226,
+    "Proteina": 16.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 403,
+    "Descricao": "Frango inteiro sem pele assado",
+    "Umidade": 63.2,
+    "Energia_kcal": 187,
+    "Proteina": 28.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 404,
+    "Descricao": "Frango inteiro sem pele cozido",
+    "Umidade": 67.5,
+    "Energia_kcal": 170,
+    "Proteina": 25.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 405,
+    "Descricao": "Frango inteiro sem pele cru",
+    "Umidade": 74.9,
+    "Energia_kcal": 129,
+    "Proteina": 20.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 406,
+    "Descricao": "Frango peito com pele assado",
+    "Umidade": 58.5,
+    "Energia_kcal": 212,
+    "Proteina": 33.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 407,
+    "Descricao": "Frango peito com pele cru",
+    "Umidade": 71.9,
+    "Energia_kcal": 149,
+    "Proteina": 20.8,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 408,
+    "Descricao": "Frango peito sem pele cozido",
+    "Umidade": 65.6,
+    "Energia_kcal": 163,
+    "Proteina": 31.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 409,
+    "Descricao": "Frango peito sem pele cru",
+    "Umidade": 74.8,
+    "Energia_kcal": 119,
+    "Proteina": 21.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 410,
+    "Descricao": "Frango peito sem pele grelhado",
+    "Umidade": 63.8,
+    "Energia_kcal": 159,
+    "Proteina": 32.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 411,
+    "Descricao": "Frango sobrecoxa com pele assada",
+    "Umidade": 55.0,
+    "Energia_kcal": 260,
+    "Proteina": 28.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 412,
+    "Descricao": "Frango sobrecoxa com pele crua",
+    "Umidade": 63.6,
+    "Energia_kcal": 255,
+    "Proteina": 15.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 413,
+    "Descricao": "Frango sobrecoxa sem pele assada",
+    "Umidade": 55.6,
+    "Energia_kcal": 233,
+    "Proteina": 29.2,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 414,
+    "Descricao": "Frango sobrecoxa sem pele crua",
+    "Umidade": 72.7,
+    "Energia_kcal": 162,
+    "Proteina": 17.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 415,
+    "Descricao": "Hamburguer bovino cru",
+    "Umidade": 63.6,
+    "Energia_kcal": 215,
+    "Proteina": 13.2,
+    "Carboidrato": 4.2,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 416,
+    "Descricao": "Hamburguer bovino frito",
+    "Umidade": 52.5,
+    "Energia_kcal": 258,
+    "Proteina": 20.0,
+    "Carboidrato": 6.3,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 417,
+    "Descricao": "Hamburguer bovino grelhado",
+    "Umidade": 59.2,
+    "Energia_kcal": 210,
+    "Proteina": 13.2,
+    "Carboidrato": 11.3,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 418,
+    "Descricao": "Linguica frango crua",
+    "Umidade": 64.8,
+    "Energia_kcal": 218,
+    "Proteina": 14.2,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 419,
+    "Descricao": "Linguica frango frita",
+    "Umidade": 59.6,
+    "Energia_kcal": 245,
+    "Proteina": 18.3,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 420,
+    "Descricao": "Linguica frango grelhada",
+    "Umidade": 58.6,
+    "Energia_kcal": 244,
+    "Proteina": 18.2,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 421,
+    "Descricao": "Linguica porco crua",
+    "Umidade": 62.5,
+    "Energia_kcal": 227,
+    "Proteina": 16.1,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 422,
+    "Descricao": "Linguica porco frita",
+    "Umidade": 54.6,
+    "Energia_kcal": 280,
+    "Proteina": 20.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 423,
+    "Descricao": "Linguica porco grelhada",
+    "Umidade": 50.5,
+    "Energia_kcal": 296,
+    "Proteina": 23.2,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 424,
+    "Descricao": "Mortadela",
+    "Umidade": 56.4,
+    "Energia_kcal": 269,
+    "Proteina": 12.0,
+    "Carboidrato": 5.8,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 425,
+    "Descricao": "Peru congelado assado",
+    "Umidade": 65.3,
+    "Energia_kcal": 163,
+    "Proteina": 26.2,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 426,
+    "Descricao": "Peru congelado cru",
+    "Umidade": 78.2,
+    "Energia_kcal": 94,
+    "Proteina": 18.1,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 427,
+    "Descricao": "Porco bisteca crua",
+    "Umidade": 67.7,
+    "Energia_kcal": 164,
+    "Proteina": 21.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 428,
+    "Descricao": "Porco bisteca frita",
+    "Umidade": 47.3,
+    "Energia_kcal": 311,
+    "Proteina": 33.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 429,
+    "Descricao": "Porco bisteca grelhada",
+    "Umidade": 51.8,
+    "Energia_kcal": 280,
+    "Proteina": 28.9,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 430,
+    "Descricao": "Porco costela assada",
+    "Umidade": 36.9,
+    "Energia_kcal": 402,
+    "Proteina": 30.2,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 431,
+    "Descricao": "Porco costela crua",
+    "Umidade": 61.2,
+    "Energia_kcal": 256,
+    "Proteina": 18.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 432,
+    "Descricao": "Porco lombo assado",
+    "Umidade": 56.6,
+    "Energia_kcal": 210,
+    "Proteina": 35.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 433,
+    "Descricao": "Porco lombo cru",
+    "Umidade": 67.7,
+    "Energia_kcal": 176,
+    "Proteina": 22.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 434,
+    "Descricao": "Porco orelha salgada crua",
+    "Umidade": 59.7,
+    "Energia_kcal": 258,
+    "Proteina": 18.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 435,
+    "Descricao": "Porco pernil assado",
+    "Umidade": 49.3,
+    "Energia_kcal": 262,
+    "Proteina": 32.1,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 436,
+    "Descricao": "Porco pernil cru",
+    "Umidade": 67.1,
+    "Energia_kcal": 186,
+    "Proteina": 20.1,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 437,
+    "Descricao": "Porco rabo salgado cru",
+    "Umidade": 43.8,
+    "Energia_kcal": 377,
+    "Proteina": 15.6,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 438,
+    "Descricao": "Presunto com capa de gordura",
+    "Umidade": 73.9,
+    "Energia_kcal": 128,
+    "Proteina": 14.4,
+    "Carboidrato": 1.4,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 439,
+    "Descricao": "Presunto sem capa de gordura",
+    "Umidade": 77.2,
+    "Energia_kcal": 94,
+    "Proteina": 14.3,
+    "Carboidrato": 2.1,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 440,
+    "Descricao": "Quibe assado",
+    "Umidade": 69.0,
+    "Energia_kcal": 136,
+    "Proteina": 14.6,
+    "Carboidrato": 12.9,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 441,
+    "Descricao": "Quibe cru",
+    "Umidade": 74.5,
+    "Energia_kcal": 109,
+    "Proteina": 12.4,
+    "Carboidrato": 10.8,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 442,
+    "Descricao": "Quibe frito",
+    "Umidade": 54.0,
+    "Energia_kcal": 254,
+    "Proteina": 14.9,
+    "Carboidrato": 12.3,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 443,
+    "Descricao": "Salame",
+    "Umidade": 34.7,
+    "Energia_kcal": 398,
+    "Proteina": 25.8,
+    "Carboidrato": 2.9,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 444,
+    "Descricao": "Toucinho cru",
+    "Umidade": 27.6,
+    "Energia_kcal": 593,
+    "Proteina": 11.5,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 445,
+    "Descricao": "Toucinho frito",
+    "Umidade": 6.3,
+    "Energia_kcal": 697,
+    "Proteina": 27.3,
+    "Carboidrato": 0.0,
+    "Categoria": "Carnes e derivados"
+  },
+  {
+    "Numero": 446,
+    "Descricao": "Bebida lactea pessego",
+    "Umidade": 87.7,
+    "Energia_kcal": 55,
+    "Proteina": 2.1,
+    "Carboidrato": 7.6,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 447,
+    "Descricao": "Creme de Leite",
+    "Umidade": 70.9,
+    "Energia_kcal": 221,
+    "Proteina": 1.5,
+    "Carboidrato": 4.5,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 448,
+    "Descricao": "Iogurte natural",
+    "Umidade": 90.0,
+    "Energia_kcal": 51,
+    "Proteina": 4.1,
+    "Carboidrato": 1.9,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 449,
+    "Descricao": "Iogurte natural desnatado",
+    "Umidade": 89.2,
+    "Energia_kcal": 41,
+    "Proteina": 3.8,
+    "Carboidrato": 5.8,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 450,
+    "Descricao": "Iogurte sabor abacaxi",
+    "Umidade": 0.0,
+    "Energia_kcal": 0,
+    "Proteina": 0.0,
+    "Carboidrato": 6.0,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 451,
+    "Descricao": "Iogurte sabor morango",
+    "Umidade": 84.6,
+    "Energia_kcal": 70,
+    "Proteina": 2.7,
+    "Carboidrato": 9.7,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 452,
+    "Descricao": "Iogurte sabor pessego",
+    "Umidade": 85.1,
+    "Energia_kcal": 68,
+    "Proteina": 2.5,
+    "Carboidrato": 9.4,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 453,
+    "Descricao": "Leite condensado",
+    "Umidade": 27.0,
+    "Energia_kcal": 313,
+    "Proteina": 7.7,
+    "Carboidrato": 57.0,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 454,
+    "Descricao": "Leite de cabra",
+    "Umidade": 87.1,
+    "Energia_kcal": 66,
+    "Proteina": 3.1,
+    "Carboidrato": 5.2,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 455,
+    "Descricao": "Leite de vaca achocolatado",
+    "Umidade": 80.9,
+    "Energia_kcal": 83,
+    "Proteina": 2.1,
+    "Carboidrato": 14.2,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 456,
+    "Descricao": "Leite de vaca desnatado po",
+    "Umidade": 3.1,
+    "Energia_kcal": 362,
+    "Proteina": 34.7,
+    "Carboidrato": 53.0,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 457,
+    "Descricao": "Leite de vaca desnatado UHT",
+    "Umidade": 0.0,
+    "Energia_kcal": 0,
+    "Proteina": 0.0,
+    "Carboidrato": 4.0,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 458,
+    "Descricao": "Leite de vaca integral",
+    "Umidade": 0.0,
+    "Energia_kcal": 0,
+    "Proteina": 0.0,
+    "Carboidrato": 10.0,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 459,
+    "Descricao": "Leite de vaca integral po",
+    "Umidade": 2.7,
+    "Energia_kcal": 497,
+    "Proteina": 25.4,
+    "Carboidrato": 39.2,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 460,
+    "Descricao": "Leite fermentado",
+    "Umidade": 81.9,
+    "Energia_kcal": 70,
+    "Proteina": 1.9,
+    "Carboidrato": 15.7,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 461,
+    "Descricao": "Queijo minas frescal",
+    "Umidade": 56.1,
+    "Energia_kcal": 264,
+    "Proteina": 17.4,
+    "Carboidrato": 3.2,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 462,
+    "Descricao": "Queijo minas meia cura",
+    "Umidade": 47.1,
+    "Energia_kcal": 321,
+    "Proteina": 21.2,
+    "Carboidrato": 3.6,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 463,
+    "Descricao": "Queijo mozarela",
+    "Umidade": 45.3,
+    "Energia_kcal": 330,
+    "Proteina": 22.6,
+    "Carboidrato": 3.0,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 464,
+    "Descricao": "Queijo parmesao",
+    "Umidade": 21.2,
+    "Energia_kcal": 453,
+    "Proteina": 35.6,
+    "Carboidrato": 1.7,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 465,
+    "Descricao": "Queijo pasteurizado",
+    "Umidade": 54.4,
+    "Energia_kcal": 303,
+    "Proteina": 9.4,
+    "Carboidrato": 5.7,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 466,
+    "Descricao": "Queijo petit suisse morango",
+    "Umidade": 72.2,
+    "Energia_kcal": 121,
+    "Proteina": 5.8,
+    "Carboidrato": 18.5,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 467,
+    "Descricao": "Queijo prato",
+    "Umidade": 42.4,
+    "Energia_kcal": 360,
+    "Proteina": 22.7,
+    "Carboidrato": 1.9,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 468,
+    "Descricao": "Queijo requeijao cremoso",
+    "Umidade": 62.5,
+    "Energia_kcal": 257,
+    "Proteina": 9.6,
+    "Carboidrato": 2.4,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 469,
+    "Descricao": "Queijo ricota",
+    "Umidade": 73.6,
+    "Energia_kcal": 140,
+    "Proteina": 12.6,
+    "Carboidrato": 3.8,
+    "Categoria": "Leite e derivados"
+  },
+  {
+    "Numero": 470,
+    "Descricao": "Bebida isotonica sabores variados",
+    "Umidade": 93.5,
+    "Energia_kcal": 26,
+    "Proteina": 0.0,
+    "Carboidrato": 6.4,
+    "Categoria": "Bebidas (alcoolicas e nao alcoolicas)"
+  },
+  {
+    "Numero": 471,
+    "Descricao": "Cafe infusao 10%",
+    "Umidade": 97.4,
+    "Energia_kcal": 9,
+    "Proteina": 0.7,
+    "Carboidrato": 1.5,
+    "Categoria": "Bebidas (alcoolicas e nao alcoolicas)"
+  },
+  {
+    "Numero": 472,
+    "Descricao": "Cana aguardente",
+    "Umidade": 0.0,
+    "Energia_kcal": 216,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Bebidas (alcoolicas e nao alcoolicas)"
+  },
+  {
+    "Numero": 473,
+    "Descricao": "Cana caldo de",
+    "Umidade": 81.7,
+    "Energia_kcal": 65,
+    "Proteina": 0.0,
+    "Carboidrato": 18.2,
+    "Categoria": "Bebidas (alcoolicas e nao alcoolicas)"
+  },
+  {
+    "Numero": 474,
+    "Descricao": "Cerveja pilsen",
+    "Umidade": 92.4,
+    "Energia_kcal": 41,
+    "Proteina": 0.6,
+    "Carboidrato": 3.3,
+    "Categoria": "Bebidas (alcoolicas e nao alcoolicas)"
+  },
+  {
+    "Numero": 475,
+    "Descricao": "Cha erva-doce infusao 5%",
+    "Umidade": 99.6,
+    "Energia_kcal": 1,
+    "Proteina": 0.0,
+    "Carboidrato": 0.4,
+    "Categoria": "Bebidas (alcoolicas e nao alcoolicas)"
+  },
+  {
+    "Numero": 476,
+    "Descricao": "Cha mate infusao 5%",
+    "Umidade": 99.3,
+    "Energia_kcal": 3,
+    "Proteina": 0.0,
+    "Carboidrato": 0.6,
+    "Categoria": "Bebidas (alcoolicas e nao alcoolicas)"
+  },
+  {
+    "Numero": 477,
+    "Descricao": "Cha preto infusao 5%",
+    "Umidade": 99.4,
+    "Energia_kcal": 2,
+    "Proteina": 0.0,
+    "Carboidrato": 0.6,
+    "Categoria": "Bebidas (alcoolicas e nao alcoolicas)"
+  },
+  {
+    "Numero": 478,
+    "Descricao": "Coco agua de",
+    "Umidade": 94.3,
+    "Energia_kcal": 22,
+    "Proteina": 0.0,
+    "Carboidrato": 5.3,
+    "Categoria": "Bebidas (alcoolicas e nao alcoolicas)"
+  },
+  {
+    "Numero": 479,
+    "Descricao": "Refrigerante tipo agua tonica",
+    "Umidade": 92.0,
+    "Energia_kcal": 31,
+    "Proteina": 0.0,
+    "Carboidrato": 8.0,
+    "Categoria": "Bebidas (alcoolicas e nao alcoolicas)"
+  },
+  {
+    "Numero": 480,
+    "Descricao": "Refrigerante tipo cola",
+    "Umidade": 91.3,
+    "Energia_kcal": 34,
+    "Proteina": 0.0,
+    "Carboidrato": 8.7,
+    "Categoria": "Bebidas (alcoolicas e nao alcoolicas)"
+  },
+  {
+    "Numero": 481,
+    "Descricao": "Refrigerante tipo guarana",
+    "Umidade": 90.0,
+    "Energia_kcal": 39,
+    "Proteina": 0.0,
+    "Carboidrato": 10.0,
+    "Categoria": "Bebidas (alcoolicas e nao alcoolicas)"
+  },
+  {
+    "Numero": 482,
+    "Descricao": "Refrigerante tipo laranja",
+    "Umidade": 88.2,
+    "Energia_kcal": 46,
+    "Proteina": 0.0,
+    "Carboidrato": 11.8,
+    "Categoria": "Bebidas (alcoolicas e nao alcoolicas)"
+  },
+  {
+    "Numero": 483,
+    "Descricao": "Refrigerante tipo limao",
+    "Umidade": 89.7,
+    "Energia_kcal": 40,
+    "Proteina": 0.0,
+    "Carboidrato": 10.3,
+    "Categoria": "Bebidas (alcoolicas e nao alcoolicas)"
+  },
+  {
+    "Numero": 484,
+    "Descricao": "Omelete de queijo",
+    "Umidade": 60.5,
+    "Energia_kcal": 268,
+    "Proteina": 15.6,
+    "Carboidrato": 0.4,
+    "Categoria": "Ovos e derivados"
+  },
+  {
+    "Numero": 485,
+    "Descricao": "Ovo de codorna inteiro cru",
+    "Umidade": 71.7,
+    "Energia_kcal": 177,
+    "Proteina": 13.7,
+    "Carboidrato": 0.8,
+    "Categoria": "Ovos e derivados"
+  },
+  {
+    "Numero": 486,
+    "Descricao": "Ovo de galinha clara cozida/10minutos",
+    "Umidade": 85.2,
+    "Energia_kcal": 59,
+    "Proteina": 13.4,
+    "Carboidrato": 0.0,
+    "Categoria": "Ovos e derivados"
+  },
+  {
+    "Numero": 487,
+    "Descricao": "Ovo de galinha gema cozida/10minutos",
+    "Umidade": 50.0,
+    "Energia_kcal": 353,
+    "Proteina": 15.9,
+    "Carboidrato": 1.6,
+    "Categoria": "Ovos e derivados"
+  },
+  {
+    "Numero": 488,
+    "Descricao": "Ovo de galinha inteiro cozido/10minutos",
+    "Umidade": 75.8,
+    "Energia_kcal": 146,
+    "Proteina": 13.3,
+    "Carboidrato": 0.6,
+    "Categoria": "Ovos e derivados"
+  },
+  {
+    "Numero": 489,
+    "Descricao": "Ovo de galinha inteiro cru",
+    "Umidade": 75.6,
+    "Energia_kcal": 143,
+    "Proteina": 13.0,
+    "Carboidrato": 1.6,
+    "Categoria": "Ovos e derivados"
+  },
+  {
+    "Numero": 490,
+    "Descricao": "Ovo de galinha inteiro frito",
+    "Umidade": 63.5,
+    "Energia_kcal": 240,
+    "Proteina": 15.6,
+    "Carboidrato": 1.2,
+    "Categoria": "Ovos e derivados"
+  },
+  {
+    "Numero": 491,
+    "Descricao": "Achocolatado po",
+    "Umidade": 1.1,
+    "Energia_kcal": 401,
+    "Proteina": 4.2,
+    "Carboidrato": 91.2,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 492,
+    "Descricao": "Acucar cristal",
+    "Umidade": 0.1,
+    "Energia_kcal": 387,
+    "Proteina": 0.3,
+    "Carboidrato": 99.6,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 493,
+    "Descricao": "Acucar mascavo",
+    "Umidade": 3.3,
+    "Energia_kcal": 369,
+    "Proteina": 0.8,
+    "Carboidrato": 94.5,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 494,
+    "Descricao": "Acucar refinado",
+    "Umidade": 0.1,
+    "Energia_kcal": 387,
+    "Proteina": 0.3,
+    "Carboidrato": 99.5,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 495,
+    "Descricao": "Chocolate ao leite",
+    "Umidade": 1.3,
+    "Energia_kcal": 540,
+    "Proteina": 7.2,
+    "Carboidrato": 59.6,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 496,
+    "Descricao": "Chocolate ao leite com castanha do Para",
+    "Umidade": 1.2,
+    "Energia_kcal": 559,
+    "Proteina": 7.4,
+    "Carboidrato": 55.4,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 497,
+    "Descricao": "Chocolate ao leite dietetico",
+    "Umidade": 1.7,
+    "Energia_kcal": 557,
+    "Proteina": 6.9,
+    "Carboidrato": 56.3,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 498,
+    "Descricao": "Chocolate meio amargo",
+    "Umidade": 1.0,
+    "Energia_kcal": 475,
+    "Proteina": 4.9,
+    "Carboidrato": 62.4,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 499,
+    "Descricao": "Cocada branca",
+    "Umidade": 3.4,
+    "Energia_kcal": 449,
+    "Proteina": 1.1,
+    "Carboidrato": 81.4,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 500,
+    "Descricao": "Doce de abobora cremoso",
+    "Umidade": 43.9,
+    "Energia_kcal": 199,
+    "Proteina": 0.9,
+    "Carboidrato": 54.6,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 501,
+    "Descricao": "Doce de leite cremoso",
+    "Umidade": 27.5,
+    "Energia_kcal": 306,
+    "Proteina": 5.5,
+    "Carboidrato": 59.5,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 502,
+    "Descricao": "Geleia mocoto natural",
+    "Umidade": 73.5,
+    "Energia_kcal": 106,
+    "Proteina": 2.1,
+    "Carboidrato": 24.2,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 503,
+    "Descricao": "Glicose de milho",
+    "Umidade": 20.4,
+    "Energia_kcal": 292,
+    "Proteina": 0.0,
+    "Carboidrato": 79.4,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 504,
+    "Descricao": "Maria mole",
+    "Umidade": 21.6,
+    "Energia_kcal": 301,
+    "Proteina": 3.8,
+    "Carboidrato": 73.6,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 505,
+    "Descricao": "Maria mole coco queimado",
+    "Umidade": 20.7,
+    "Energia_kcal": 307,
+    "Proteina": 3.9,
+    "Carboidrato": 75.1,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 506,
+    "Descricao": "Marmelada",
+    "Umidade": 28.5,
+    "Energia_kcal": 257,
+    "Proteina": 0.4,
+    "Carboidrato": 70.8,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 507,
+    "Descricao": "Mel de abelha",
+    "Umidade": 15.8,
+    "Energia_kcal": 309,
+    "Proteina": 0.0,
+    "Carboidrato": 84.0,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 508,
+    "Descricao": "Melado",
+    "Umidade": 22.1,
+    "Energia_kcal": 297,
+    "Proteina": 0.0,
+    "Carboidrato": 76.6,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 509,
+    "Descricao": "Quindim",
+    "Umidade": 23.9,
+    "Energia_kcal": 411,
+    "Proteina": 4.7,
+    "Carboidrato": 46.3,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 510,
+    "Descricao": "Rapadura",
+    "Umidade": 7.1,
+    "Energia_kcal": 352,
+    "Proteina": 1.0,
+    "Carboidrato": 90.8,
+    "Categoria": "Produtos açucarados"
+  },
+  {
+    "Numero": 511,
+    "Descricao": "Cafe po torrado",
+    "Umidade": 2.9,
+    "Energia_kcal": 419,
+    "Proteina": 14.7,
+    "Carboidrato": 65.8,
+    "Categoria": "Miscelaneas"
+  },
+  {
+    "Numero": 512,
+    "Descricao": "Capuccino po",
+    "Umidade": 2.6,
+    "Energia_kcal": 417,
+    "Proteina": 11.3,
+    "Carboidrato": 73.6,
+    "Categoria": "Miscelaneas"
+  },
+  {
+    "Numero": 513,
+    "Descricao": "Fermento em po quimico",
+    "Umidade": 7.1,
+    "Energia_kcal": 90,
+    "Proteina": 0.5,
+    "Carboidrato": 43.9,
+    "Categoria": "Miscelaneas"
+  },
+  {
+    "Numero": 514,
+    "Descricao": "Fermento biologico levedura tablete",
+    "Umidade": 71.9,
+    "Energia_kcal": 90,
+    "Proteina": 17.0,
+    "Carboidrato": 7.7,
+    "Categoria": "Miscelaneas"
+  },
+  {
+    "Numero": 515,
+    "Descricao": "Gelatina sabores variados po",
+    "Umidade": 1.2,
+    "Energia_kcal": 380,
+    "Proteina": 8.9,
+    "Carboidrato": 89.2,
+    "Categoria": "Miscelaneas"
+  },
+  {
+    "Numero": 516,
+    "Descricao": "Sal dietetico",
+    "Umidade": 0.6,
+    "Energia_kcal": 0,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Miscelaneas"
+  },
+  {
+    "Numero": 517,
+    "Descricao": "Sal grosso",
+    "Umidade": 0.4,
+    "Energia_kcal": 0,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Miscelaneas"
+  },
+  {
+    "Numero": 518,
+    "Descricao": "Shoyu",
+    "Umidade": 70.6,
+    "Energia_kcal": 61,
+    "Proteina": 3.3,
+    "Carboidrato": 11.6,
+    "Categoria": "Miscelaneas"
+  },
+  {
+    "Numero": 519,
+    "Descricao": "Tempero a base de sal",
+    "Umidade": 7.7,
+    "Energia_kcal": 21,
+    "Proteina": 2.7,
+    "Carboidrato": 2.1,
+    "Categoria": "Miscelaneas"
+  },
+  {
+    "Numero": 520,
+    "Descricao": "Azeitona preta conserva",
+    "Umidade": 68.5,
+    "Energia_kcal": 194,
+    "Proteina": 1.2,
+    "Carboidrato": 5.5,
+    "Categoria": "Outros alimentos industrializados"
+  },
+  {
+    "Numero": 521,
+    "Descricao": "Azeitona verde conserva",
+    "Umidade": 76.3,
+    "Energia_kcal": 137,
+    "Proteina": 0.9,
+    "Carboidrato": 4.1,
+    "Categoria": "Outros alimentos industrializados"
+  },
+  {
+    "Numero": 522,
+    "Descricao": "Chantilly spray com gordura vegetal",
+    "Umidade": 55.1,
+    "Energia_kcal": 315,
+    "Proteina": 0.5,
+    "Carboidrato": 16.9,
+    "Categoria": "Outros alimentos industrializados"
+  },
+  {
+    "Numero": 523,
+    "Descricao": "Leite de coco",
+    "Umidade": 78.0,
+    "Energia_kcal": 166,
+    "Proteina": 1.0,
+    "Carboidrato": 2.2,
+    "Categoria": "Outros alimentos industrializados"
+  },
+  {
+    "Numero": 524,
+    "Descricao": "Maionese tradicional com ovos",
+    "Umidade": 58.4,
+    "Energia_kcal": 302,
+    "Proteina": 0.6,
+    "Carboidrato": 7.9,
+    "Categoria": "Outros alimentos industrializados"
+  },
+  {
+    "Numero": 525,
+    "Descricao": "Acaraje",
+    "Umidade": 50.5,
+    "Energia_kcal": 289,
+    "Proteina": 8.3,
+    "Carboidrato": 19.1,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 526,
+    "Descricao": "Arroz carreteiro",
+    "Umidade": 68.0,
+    "Energia_kcal": 154,
+    "Proteina": 10.8,
+    "Carboidrato": 11.6,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 527,
+    "Descricao": "Baiao de dois arroz e feijao-de-corda",
+    "Umidade": 69.1,
+    "Energia_kcal": 136,
+    "Proteina": 6.2,
+    "Carboidrato": 20.4,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 528,
+    "Descricao": "Barreado",
+    "Umidade": 71.2,
+    "Energia_kcal": 165,
+    "Proteina": 18.3,
+    "Carboidrato": 0.2,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 529,
+    "Descricao": "Bife a cavalo com contra file",
+    "Umidade": 54.2,
+    "Energia_kcal": 291,
+    "Proteina": 23.7,
+    "Carboidrato": 0.0,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 530,
+    "Descricao": "Bolinho de arroz",
+    "Umidade": 41.5,
+    "Energia_kcal": 274,
+    "Proteina": 8.0,
+    "Carboidrato": 41.7,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 531,
+    "Descricao": "Camarao a baiana",
+    "Umidade": 82.0,
+    "Energia_kcal": 101,
+    "Proteina": 7.9,
+    "Carboidrato": 3.2,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 532,
+    "Descricao": "Charuto de repolho",
+    "Umidade": 81.5,
+    "Energia_kcal": 78,
+    "Proteina": 6.8,
+    "Carboidrato": 10.1,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 533,
+    "Descricao": "Cuscuz de milho cozido com sal",
+    "Umidade": 71.1,
+    "Energia_kcal": 113,
+    "Proteina": 2.2,
+    "Carboidrato": 25.3,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 534,
+    "Descricao": "Cuscuz paulista",
+    "Umidade": 68.9,
+    "Energia_kcal": 142,
+    "Proteina": 2.6,
+    "Carboidrato": 22.5,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 535,
+    "Descricao": "Cuxa molho",
+    "Umidade": 81.0,
+    "Energia_kcal": 80,
+    "Proteina": 5.6,
+    "Carboidrato": 5.7,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 536,
+    "Descricao": "Dobradinha",
+    "Umidade": 75.3,
+    "Energia_kcal": 125,
+    "Proteina": 19.8,
+    "Carboidrato": 0.0,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 537,
+    "Descricao": "Estrogonofe de carne",
+    "Umidade": 70.1,
+    "Energia_kcal": 173,
+    "Proteina": 15.0,
+    "Carboidrato": 3.0,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 538,
+    "Descricao": "Estrogonofe de frango",
+    "Umidade": 70.9,
+    "Energia_kcal": 157,
+    "Proteina": 17.6,
+    "Carboidrato": 2.6,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 539,
+    "Descricao": "Feijao tropeiro mineiro",
+    "Umidade": 61.7,
+    "Energia_kcal": 152,
+    "Proteina": 10.2,
+    "Carboidrato": 19.6,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 540,
+    "Descricao": "Feijoada",
+    "Umidade": 71.8,
+    "Energia_kcal": 117,
+    "Proteina": 8.7,
+    "Carboidrato": 11.6,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 541,
+    "Descricao": "Frango com acafrao",
+    "Umidade": 79.5,
+    "Energia_kcal": 113,
+    "Proteina": 9.7,
+    "Carboidrato": 4.1,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 542,
+    "Descricao": "Macarrao molho bolognesa",
+    "Umidade": 71.4,
+    "Energia_kcal": 120,
+    "Proteina": 4.9,
+    "Carboidrato": 22.5,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 543,
+    "Descricao": "Manicoba",
+    "Umidade": 76.4,
+    "Energia_kcal": 134,
+    "Proteina": 10.0,
+    "Carboidrato": 3.4,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 544,
+    "Descricao": "Quibebe",
+    "Umidade": 81.1,
+    "Energia_kcal": 86,
+    "Proteina": 8.6,
+    "Carboidrato": 6.6,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 545,
+    "Descricao": "Salada de legumes com maionese",
+    "Umidade": 82.0,
+    "Energia_kcal": 96,
+    "Proteina": 1.1,
+    "Carboidrato": 8.9,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 546,
+    "Descricao": "Salada de legumes cozida no vapor",
+    "Umidade": 90.0,
+    "Energia_kcal": 35,
+    "Proteina": 2.0,
+    "Carboidrato": 7.1,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 547,
+    "Descricao": "Salpicao de frango",
+    "Umidade": 72.5,
+    "Energia_kcal": 148,
+    "Proteina": 13.9,
+    "Carboidrato": 4.6,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 548,
+    "Descricao": "Sarapatel",
+    "Umidade": 75.0,
+    "Energia_kcal": 123,
+    "Proteina": 18.5,
+    "Carboidrato": 1.1,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 549,
+    "Descricao": "Tabule",
+    "Umidade": 85.8,
+    "Energia_kcal": 57,
+    "Proteina": 2.0,
+    "Carboidrato": 10.6,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 550,
+    "Descricao": "Tacaca",
+    "Umidade": 85.2,
+    "Energia_kcal": 47,
+    "Proteina": 7.0,
+    "Carboidrato": 3.4,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 551,
+    "Descricao": "Tapioca com manteiga",
+    "Umidade": 24.9,
+    "Energia_kcal": 348,
+    "Proteina": 0.1,
+    "Carboidrato": 63.6,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 552,
+    "Descricao": "Tucupi com pimenta-de-cheiro",
+    "Umidade": 91.9,
+    "Energia_kcal": 27,
+    "Proteina": 2.1,
+    "Carboidrato": 4.7,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 553,
+    "Descricao": "Vaca atolada",
+    "Umidade": 75.0,
+    "Energia_kcal": 145,
+    "Proteina": 5.1,
+    "Carboidrato": 10.1,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 554,
+    "Descricao": "Vatapa",
+    "Umidade": 58.4,
+    "Energia_kcal": 255,
+    "Proteina": 6.0,
+    "Carboidrato": 9.7,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 555,
+    "Descricao": "Virado a paulista",
+    "Umidade": 48.6,
+    "Energia_kcal": 307,
+    "Proteina": 10.2,
+    "Carboidrato": 14.1,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 556,
+    "Descricao": "Yakisoba",
+    "Umidade": 69.4,
+    "Energia_kcal": 113,
+    "Proteina": 7.5,
+    "Carboidrato": 18.3,
+    "Categoria": "Alimentos preparados"
+  },
+  {
+    "Numero": 557,
+    "Descricao": "Amendoim grao cru",
+    "Umidade": 6.4,
+    "Energia_kcal": 544,
+    "Proteina": 27.2,
+    "Carboidrato": 20.3,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 558,
+    "Descricao": "Amendoim torrado salgado",
+    "Umidade": 1.7,
+    "Energia_kcal": 606,
+    "Proteina": 22.5,
+    "Carboidrato": 18.7,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 559,
+    "Descricao": "Ervilha em vagem",
+    "Umidade": 76.8,
+    "Energia_kcal": 88,
+    "Proteina": 7.5,
+    "Carboidrato": 14.2,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 560,
+    "Descricao": "Ervilha enlatada drenada",
+    "Umidade": 80.1,
+    "Energia_kcal": 74,
+    "Proteina": 4.6,
+    "Carboidrato": 13.4,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 561,
+    "Descricao": "Feijao carioca cozido",
+    "Umidade": 80.4,
+    "Energia_kcal": 76,
+    "Proteina": 4.8,
+    "Carboidrato": 13.6,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 562,
+    "Descricao": "Feijao carioca cru",
+    "Umidade": 14.0,
+    "Energia_kcal": 329,
+    "Proteina": 20.0,
+    "Carboidrato": 61.2,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 563,
+    "Descricao": "Feijao fradinho cozido",
+    "Umidade": 80.0,
+    "Energia_kcal": 78,
+    "Proteina": 5.1,
+    "Carboidrato": 13.5,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 564,
+    "Descricao": "Feijao fradinho cru",
+    "Umidade": 12.7,
+    "Energia_kcal": 339,
+    "Proteina": 20.2,
+    "Carboidrato": 61.2,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 565,
+    "Descricao": "Feijao jalo cozido",
+    "Umidade": 75.8,
+    "Energia_kcal": 93,
+    "Proteina": 6.1,
+    "Carboidrato": 16.5,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 566,
+    "Descricao": "Feijao jalo cru",
+    "Umidade": 13.5,
+    "Energia_kcal": 328,
+    "Proteina": 20.1,
+    "Carboidrato": 61.5,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 567,
+    "Descricao": "Feijao preto cozido",
+    "Umidade": 80.2,
+    "Energia_kcal": 77,
+    "Proteina": 4.5,
+    "Carboidrato": 14.0,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 568,
+    "Descricao": "Feijao preto cru",
+    "Umidade": 14.9,
+    "Energia_kcal": 324,
+    "Proteina": 21.3,
+    "Carboidrato": 58.8,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 569,
+    "Descricao": "Feijao rajado cozido",
+    "Umidade": 77.9,
+    "Energia_kcal": 85,
+    "Proteina": 5.5,
+    "Carboidrato": 15.3,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 570,
+    "Descricao": "Feijao rajado cru",
+    "Umidade": 15.0,
+    "Energia_kcal": 326,
+    "Proteina": 17.3,
+    "Carboidrato": 62.9,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 571,
+    "Descricao": "Feijao rosinha cozido",
+    "Umidade": 82.6,
+    "Energia_kcal": 68,
+    "Proteina": 4.5,
+    "Carboidrato": 11.8,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 572,
+    "Descricao": "Feijao rosinha cru",
+    "Umidade": 12.0,
+    "Energia_kcal": 337,
+    "Proteina": 20.9,
+    "Carboidrato": 62.2,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 573,
+    "Descricao": "Feijao roxo cozido",
+    "Umidade": 80.0,
+    "Energia_kcal": 77,
+    "Proteina": 5.7,
+    "Carboidrato": 12.9,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 574,
+    "Descricao": "Feijao roxo cru",
+    "Umidade": 12.6,
+    "Energia_kcal": 331,
+    "Proteina": 22.2,
+    "Carboidrato": 60.0,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 575,
+    "Descricao": "Grao-de-bico cru",
+    "Umidade": 12.3,
+    "Energia_kcal": 355,
+    "Proteina": 21.2,
+    "Carboidrato": 57.9,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 576,
+    "Descricao": "Guandu cru",
+    "Umidade": 11.4,
+    "Energia_kcal": 344,
+    "Proteina": 19.0,
+    "Carboidrato": 64.0,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 577,
+    "Descricao": "Lentilha cozida",
+    "Umidade": 76.3,
+    "Energia_kcal": 93,
+    "Proteina": 6.3,
+    "Carboidrato": 16.3,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 578,
+    "Descricao": "Lentilha crua",
+    "Umidade": 11.5,
+    "Energia_kcal": 339,
+    "Proteina": 23.2,
+    "Carboidrato": 62.0,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 579,
+    "Descricao": "Pacoca amendoim",
+    "Umidade": 1.8,
+    "Energia_kcal": 487,
+    "Proteina": 16.0,
+    "Carboidrato": 52.4,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 580,
+    "Descricao": "Pe-de-moleque amendoim",
+    "Umidade": 2.9,
+    "Energia_kcal": 503,
+    "Proteina": 13.2,
+    "Carboidrato": 54.7,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 581,
+    "Descricao": "Soja farinha",
+    "Umidade": 5.8,
+    "Energia_kcal": 404,
+    "Proteina": 36.0,
+    "Carboidrato": 38.4,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 582,
+    "Descricao": "Soja extrato soluvel natural fluido",
+    "Umidade": 91.3,
+    "Energia_kcal": 39,
+    "Proteina": 2.4,
+    "Carboidrato": 4.3,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 583,
+    "Descricao": "Soja extrato soluvel po",
+    "Umidade": 4.5,
+    "Energia_kcal": 459,
+    "Proteina": 35.7,
+    "Carboidrato": 28.5,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 584,
+    "Descricao": "Soja queijo (tofu)",
+    "Umidade": 86.6,
+    "Energia_kcal": 64,
+    "Proteina": 6.6,
+    "Carboidrato": 2.1,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 585,
+    "Descricao": "Tremoço cru",
+    "Umidade": 9.7,
+    "Energia_kcal": 381,
+    "Proteina": 33.6,
+    "Carboidrato": 43.8,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 586,
+    "Descricao": "Tremoço em conserva",
+    "Umidade": 67.7,
+    "Energia_kcal": 121,
+    "Proteina": 11.1,
+    "Carboidrato": 12.4,
+    "Categoria": "Leguminosas e derivados"
+  },
+  {
+    "Numero": 587,
+    "Descricao": "Amendoa torrada salgada",
+    "Umidade": 3.1,
+    "Energia_kcal": 581,
+    "Proteina": 18.6,
+    "Carboidrato": 29.5,
+    "Categoria": "Nozes e sementes"
+  },
+  {
+    "Numero": 588,
+    "Descricao": "Castanha-de-caju torrada salgada",
+    "Umidade": 3.5,
+    "Energia_kcal": 570,
+    "Proteina": 18.5,
+    "Carboidrato": 29.1,
+    "Categoria": "Nozes e sementes"
+  },
+  {
+    "Numero": 589,
+    "Descricao": "Castanha-do-Brasil crua",
+    "Umidade": 3.5,
+    "Energia_kcal": 643,
+    "Proteina": 14.5,
+    "Carboidrato": 15.1,
+    "Categoria": "Nozes e sementes"
+  },
+  {
+    "Numero": 590,
+    "Descricao": "Coco cru",
+    "Umidade": 43.0,
+    "Energia_kcal": 406,
+    "Proteina": 3.7,
+    "Carboidrato": 10.4,
+    "Categoria": "Nozes e sementes"
+  },
+  {
+    "Numero": 591,
+    "Descricao": "Coco verde cru",
+    "Umidade": 0.0,
+    "Energia_kcal": 0,
+    "Proteina": 0.0,
+    "Carboidrato": 0.0,
+    "Categoria": "Nozes e sementes"
+  },
+  {
+    "Numero": 592,
+    "Descricao": "Farinha de mesocarpo de babacu crua",
+    "Umidade": 15.8,
+    "Energia_kcal": 329,
+    "Proteina": 1.4,
+    "Carboidrato": 79.2,
+    "Categoria": "Nozes e sementes"
+  },
+  {
+    "Numero": 593,
+    "Descricao": "Gergelim semente",
+    "Umidade": 3.9,
+    "Energia_kcal": 584,
+    "Proteina": 21.2,
+    "Carboidrato": 21.6,
+    "Categoria": "Nozes e sementes"
+  },
+  {
+    "Numero": 594,
+    "Descricao": "Linhaca semente",
+    "Umidade": 6.7,
+    "Energia_kcal": 495,
+    "Proteina": 14.1,
+    "Carboidrato": 43.3,
+    "Categoria": "Nozes e sementes"
+  },
+  {
+    "Numero": 595,
+    "Descricao": "Pinhao cozido",
+    "Umidade": 50.5,
+    "Energia_kcal": 174,
+    "Proteina": 3.0,
+    "Carboidrato": 43.9,
+    "Categoria": "Nozes e sementes"
+  },
+  {
+    "Numero": 596,
+    "Descricao": "Pupunha cozida",
+    "Umidade": 54.5,
+    "Energia_kcal": 219,
+    "Proteina": 2.5,
+    "Carboidrato": 29.6,
+    "Categoria": "Nozes e sementes"
+  },
+  {
+    "Numero": 597,
+    "Descricao": "Noz crua",
+    "Umidade": 6.2,
+    "Energia_kcal": 620,
+    "Proteina": 14.0,
+    "Carboidrato": 18.4,
+    "Categoria": "Nozes e sementes"
+  }
+]
