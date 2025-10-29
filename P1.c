@@ -106,7 +106,7 @@ Alimento** ler_alimentos_do_json(const char* nome_arquivo, int* total_alimentos)
 // ===================================================================================
 
 bool salvar_em_binario(Alimento** array_memoria, int total_alimentos, const char* dados.bin) {
-    FILE* f_binario = fopen(dados.bin, "wb");
+    FILE* f_binario = fopen(dados.bin, "wb"); // Essa linha serva para gerar um arquivo binário para apenas escrita -> "wb" = Wite Binary
     if (f_binario == NULL) {
         perror("Não foi possível criar o arquivo em Binário...");
         return false;
@@ -114,17 +114,17 @@ bool salvar_em_binario(Alimento** array_memoria, int total_alimentos, const char
     printf("Escrevendo dados em '%s'... \n", dados.bin)
 
     for (int i = 0; i < total_alimentos; i++) {
-        AlimentoArquivo temp_bin;
+        AlimentoArquivo temp_bin; // Essa linha é responsável por criar uma struct temporária
         memset(&temp_bin, 0, sizeof(AlimentoArquivo));
 
         temp_bin.numero = array_memoria[i]->numero;
-        umidade
-        energia_kcal
-        proteina
-        carboidrato
+        temp_bin.numero = array_memoria[i]->umidade;
+        temp_bin.numero = array_memoria[i]->proteina;
+        temp_bin.numero = array_memoria[i]->energia_kcal;
+        temp_bin.numero = array_memoria[i]->carboidrato;
         
         strncpy(temp_bin.descricao, array_memoria[i]->descricao, MAX_DESCICAO - 1);
-        categoria
+        strncpy(temp_bin.descricao, array_memoria[i]->categoria, MAX_DESCICAO - 1);
 
         fwrite(&temp_bin, sizeof(AlimentoArquivo), 1, f_binario);
     }
@@ -140,10 +140,10 @@ bool salvar_em_binario(Alimento** array_memoria, int total_alimentos, const char
 // ===================================================================================
 int main() {
     int total_alimentos = 0;
-    const char* json_filename = "dados.json";
-    const char* bin_filename = "dados.bin";
+    const char* json_filename = "dados.json"; // Variável que se trata do ponteiro do nome do arquivo json dos dados
+    const char* bin_filename = "dados.bin"; // Variável que se trata do ponteiro do nome do arquivo binário dos dados
 
-    // --- 1. LER DO JSON ---
+    // 1° PARTE: LER OS DADOS DO ARQUIVO JSON
     printf("Lendo dados de '%s'...\n", json_filename);
     Alimento** array_memoria = ler_alimentos_do_json(json_filename, &total_alimentos);
     
@@ -153,10 +153,10 @@ int main() {
     }
     printf("%d alimentos lidos com sucesso da memória.\n", total_alimentos);
 
-    // --- 2. SALVAR EM BINÁRIO ---
+    // 2° PARTE: SALVAR OS DADOS LIDOS NO ARQUIVO BINÁRIO 
     if (!salvar_em_binario(array_memoria, total_alimentos, bin_filename)) {
         fprintf(stderr, "Falha ao salvar o arquivo binário.\n");
-        // Mesmo em caso de falha, precisamos limpar a memória antes de sair
+        // Aqui não retornamos 1, pois o código deve continuar, para que a memória seja liberada, e não cause um memory leak
     }
 
     // --- 3. LIBERAR MEMÓRIA ---
@@ -165,6 +165,7 @@ int main() {
         free(array_memoria[i]->descricao); // Libera a string alocada com strdup
         free(array_memoria[i]->categoria); // Libera a string alocada com strdup
         free(array_memoria[i]);           // Libera a struct Alimento
+        // O 
     }
     free(array_memoria); // Libera o array principal de ponteiros
 
