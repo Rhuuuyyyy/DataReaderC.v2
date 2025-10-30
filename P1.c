@@ -36,9 +36,9 @@ int main() {
 // ===================================================================================
 // FUNÇÃO PARA LER OS DADOS DO ARQUIVO .JSON ORIGINAL
 // ===================================================================================
-Alimento** ler_alimentos_do_json(const char* nome_arquivo, int* total_alimentos) {
+Alimento** ler_alimentos_do_json(const char* dados.json, int* total_alimentos) {
     // Esta função é uma especialista em ler o arquivo .json, que tem uma estrutura mais complexa.
-    FILE* arquivo = fopen(nome_arquivo, "r"); // O "r" serve para indicar que o arquivo vai ser apenas lido...
+    FILE* arquivo = fopen(dados.json, "r"); // O "r" serve para indicar que o arquivo vai ser apenas lido...
     if (arquivo == NULL) { perror("Nao foi possivel abrir o arquivo dados.json"); return NULL; }
     
     // Lê o conteúdo inteiro do arquivo para a memória de uma só vez.
@@ -106,31 +106,34 @@ Alimento** ler_alimentos_do_json(const char* nome_arquivo, int* total_alimentos)
 // ===================================================================================
 
 bool salvar_em_binario(Alimento** array_memoria, int total_alimentos, const char* dados.bin) {
-    FILE* f_binario = fopen(dados.bin, "wb"); // Essa linha serva para gerar um arquivo binário para apenas escrita -> "wb" = Wite Binary
+    
+
+    FILE* f_binario = fopen(dados.bin, "wb"); 
     if (f_binario == NULL) {
         perror("Não foi possível criar o arquivo em Binário...");
         return false;
     }
-    printf("Escrevendo dados em '%s'... \n", dados.bin)
+    
+    printf("Escrevendo dados em '%s'... \n", dados.bin); 
 
     for (int i = 0; i < total_alimentos; i++) {
-        AlimentoArquivo temp_bin; // Essa linha é responsável por criar uma struct temporária
+        AlimentoArquivo temp_bin; 
         memset(&temp_bin, 0, sizeof(AlimentoArquivo));
 
         temp_bin.numero = array_memoria[i]->numero;
-        temp_bin.numero = array_memoria[i]->umidade;
-        temp_bin.numero = array_memoria[i]->proteina;
-        temp_bin.numero = array_memoria[i]->energia_kcal;
-        temp_bin.numero = array_memoria[i]->carboidrato;
+        temp_bin.umidade = array_memoria[i]->umidade;
+        temp_bin.proteina = array_memoria[i]->proteina;
+        temp_bin.energia_kcal = array_memoria[i]->energia_kcal;
+        temp_bin.carboidrato = array_memoria[i]->carboidrato;
         
-        strncpy(temp_bin.descricao, array_memoria[i]->descricao, MAX_DESCICAO - 1);
-        strncpy(temp_bin.descricao, array_memoria[i]->categoria, MAX_DESCICAO - 1);
+        strncpy(temp_bin.descricao, array_memoria[i]->descricao, MAX_DESCRICAO - 1);
+        strncpy(temp_bin.categoria, array_memoria[i]->categoria, MAX_CATEGORIA - 1);
 
         fwrite(&temp_bin, sizeof(AlimentoArquivo), 1, f_binario);
     }
 
     fclose(f_binario);
-    printf("Arquivo '%s' criado com sucesso... \n", dados.bin)
+    printf("Arquivo '%s' criado com sucesso... \n", dados.bin);
 
     return true;
 }
